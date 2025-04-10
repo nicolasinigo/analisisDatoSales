@@ -1,0 +1,501 @@
+order_id,customer_id,order_date,product,category,quantity,price,payment_type,region
+d52353d7-3601-4612-b153-0be742bb9377,f7da0c5b-23f2-4cd0-8c98-d39a9d49bb68,2024-08-21,Blender,Home,2,211.8,Cash,South
+a97b56ad-de33-49e6-802d-5a1d258ba415,3a9ef996-c6f3-481d-9dcc-1f675dc599a9,2024-04-27,Blender,Home,3,638.42,Credit Card,South
+7d1f9510-e349-4475-a204-beb91205e312,4c2c4a88-58b0-4e97-b586-90511e6c7b56,2024-05-22,Headphones,Electronics,1,584.15,Cash,North
+dcac857a-de47-4d02-ba14-b7cc276fc26c,8688b64f-1157-42d3-a35a-a39eb52d94d6,2024-09-20,Laptop,Electronics,4,813.42,Cash,West
+0e72d9c6-f785-49e4-b651-9bcb15bf1c89,6bc273bb-68d8-49e6-bece-5430a2a2acb3,2025-01-30,Fiction,Books,5,477.92,Credit Card,East
+0545f0c1-5152-48d2-915a-31485970508b,044fb5d0-b8cf-4b42-9123-fc9be1ec0b9d,2024-08-03,Comics,Books,2,756.67,Bank Transfer,West
+69cdea62-dbaa-4400-a5ab-4d0910d1a8ef,373a411d-ca7d-47d5-b850-0c41979bfd9a,2025-04-02,Jacket,Clothing,3,236.96,Credit Card,North
+00897a12-7836-4c64-a2db-940e436a496f,b7ecdde1-cbb5-4c42-93c5-51ad1ea86ad4,2024-05-25,Smartphone,Electronics,4,480.18,PayPal,East
+4c9de06d-0ad8-427f-9ea1-6e78b1d83767,746e74a5-c81b-4053-b6db-2dea2339ee71,2024-09-24,T-Shirt,Clothing,2,357.36,Bank Transfer,South
+67d83b22-56b5-49f6-97e3-4f427dae9315,70553699-5190-42ea-908c-e53d1f879384,2024-07-11,Jeans,Clothing,5,893.85,Cash,North
+2935ec09-7c32-4405-b4f5-ea622cd4026d,c58f079e-f083-48e6-ac44-f5391140f993,2024-05-17,Sofa,Home,4,652.19,Credit Card,East
+500665ba-9665-4e3d-898f-75f401bd08af,a57d5725-e398-4a20-9948-ec6779f912ac,2024-08-27,Sofa,Home,4,58.08,Cash,North
+35623793-b47b-4172-9e83-00989cbfa05a,501f61dc-7abc-41ae-8211-b495a6780a97,2024-07-04,Comics,Books,4,88.98,Bank Transfer,East
+0c2ed8ce-dc1b-4594-8b16-fd39a704b71e,8037f364-6a3d-4590-b683-cd66edd34e9b,2025-02-15,Jacket,Clothing,1,401.53,Cash,East
+54f23225-a5f1-423b-aa92-a70d8611a0b2,ae04fa6e-a81f-49f0-9410-608a63d9d6b3,2024-08-17,Headphones,Electronics,3,816.91,PayPal,East
+d853d263-85c7-4a7b-becd-41febd0a9afe,bb71f435-a793-4d93-8732-f91304400893,2025-01-09,Fiction,Books,5,280.31,PayPal,East
+922f0a16-2768-489e-8d6d-b3af3b584adb,2858f459-e2f4-4eec-8570-384d42ce0d3c,2024-05-14,Sofa,Home,3,759.43,PayPal,South
+04751006-49bc-406a-9c3e-97a6d0280ad5,777d463b-b036-4755-b554-2b7ac46c34c4,2024-07-31,Sofa,Home,4,327.27,Credit Card,South
+d48d836e-7f14-4148-8433-800682f832ce,8ac08438-2494-4d39-a820-3c51b03ec575,2024-06-07,Non-fiction,Books,4,24.75,Cash,North
+48f9777b-dcef-4628-a68b-71a438775e0f,7c8f3091-97e0-4488-86ca-d4dfa916ed91,2024-08-06,Jeans,Clothing,4,441.95,PayPal,West
+9c349a60-f6e3-4db9-87db-2d98e743661b,4ce9b74a-b9d8-4e68-a4df-2522868bfca8,2025-03-17,Jacket,Clothing,4,621.45,Bank Transfer,East
+0706f515-c1fe-480d-ab1d-fb225edb2664,79346e52-4261-4157-bf53-c9548c42ee15,2024-08-19,Fiction,Books,5,750.47,Bank Transfer,North
+3b21ece1-eaf7-422e-9ff5-12f5aea0beed,cbfb5e1b-ca2d-484c-beb2-bad5266e4823,2024-08-22,Comics,Books,2,627.81,Credit Card,North
+b47a30b7-7aa7-4c63-919f-74f82771bb0c,c253b7a1-9076-45c2-883d-634ace6f867b,2025-03-06,Fiction,Books,5,129.86,PayPal,East
+3682e710-5967-469e-80fb-b9ab04a291bc,fd4e1c30-d0f1-41f8-bea0-aa6f75d78978,2025-03-04,T-Shirt,Clothing,2,904.83,Credit Card,West
+0d4736aa-6b23-4930-a078-ec8d3b299396,150f74b6-c55f-4aca-b5c7-844ec4ccc9c6,2024-06-21,Headphones,Electronics,3,282.59,Bank Transfer,West
+be5f8ab2-4612-4008-9b87-72511b5c3cd3,8dc0178b-9244-485f-8136-d17b2a16df58,2024-06-01,Vacuum Cleaner,Home,2,375.94,Cash,North
+e736233f-00e1-4cab-a4aa-7b91b8692062,3dd1e4f3-0aee-47e5-a940-8b84d3add3b5,2025-02-10,Fiction,Books,3,245.48,Cash,West
+5a1d82c5-b46a-4cd1-af5b-9ba719a848ca,3f289296-f065-4fd7-89e6-4815f6ffa5a7,2024-10-21,Comics,Books,4,439.8,Cash,West
+84464960-240d-4b87-8fd4-a626c5c0a52e,1dcfcb43-9b16-44f7-af4c-a838b97c2b73,2024-09-12,Blender,Home,3,998.19,Credit Card,South
+4e2f29c8-52ac-47fe-99d2-c7f4d3c0cf86,1e0b84e9-4b02-415e-96f9-2799cb04d10c,2024-09-13,Vacuum Cleaner,Home,2,124.5,Credit Card,West
+b9b87531-1ff3-4e88-8724-85244e04eb29,5acedc00-23da-4f6b-805e-ab6b9e6f0595,2024-07-20,Non-fiction,Books,5,850.02,Credit Card,West
+c779ba8d-256a-4d6b-b4c7-3e95ee2eb99c,eefcee30-2fc9-4a31-ae41-d6efa50026a4,2024-11-06,Sofa,Home,5,278.85,Bank Transfer,South
+ee14dcb4-96bd-4ca4-b38b-1f1fd9f1fc10,8042056e-e1be-48a8-88ef-60e5f38806d7,2024-12-24,Jacket,Clothing,3,854.06,Credit Card,South
+bc5f2b92-2019-4d12-9f0f-b4f71a95e521,344ca9cc-fec5-452b-9aac-fb76689f1957,2025-01-07,Laptop,Electronics,4,843.65,Cash,East
+62eb7d50-dd7e-43ca-af09-8b116c1b12f4,89a7147d-ccc6-4f84-9e0d-3c3312d76cec,2024-08-09,Laptop,Electronics,4,60.7,PayPal,East
+e40afe1f-a8e5-4b09-bf5c-979102ddd56b,6619ac21-a3c5-4504-aadc-50f546cb7be0,2025-04-03,Blender,Home,1,252.03,PayPal,East
+e3b53abe-182e-4c14-9e51-2b2b40b2ac32,0183ffd4-f70e-4ba9-b582-5d483927f365,2024-04-13,Smartphone,Electronics,3,375.02,Bank Transfer,East
+9183a5bc-8c7d-436c-8b76-c565abaa7756,d15906c1-7cf0-49b3-8a7c-1d4d018ceb74,2024-06-16,Non-fiction,Books,2,824.19,Cash,West
+85fe5652-d041-4a2e-8941-c12b57f27a22,3533a2cd-247e-41ac-8e29-d18f9e2f216b,2024-08-24,Non-fiction,Books,1,228.05,Bank Transfer,West
+ffb7d0d9-49c9-46fc-92e8-010c4341b0b2,542b2780-6d82-48c9-8cd1-bb3b9b5dc611,2025-03-05,Blender,Home,2,955.03,Bank Transfer,East
+ba063fd1-14aa-49c6-b5be-38e3580b518b,c3d871b0-ab7a-4137-b71f-c759c2afeaff,2024-06-08,Headphones,Electronics,4,968.58,Credit Card,South
+aa77dd12-d253-41ff-900e-a0cb3477ca7f,bfcd7e4e-db5c-4739-b8b4-f03625ee9849,2025-01-02,Headphones,Electronics,1,891.15,Credit Card,West
+ab185929-8273-47d0-bd2b-ae6e4d0c2ca7,4de9132f-eb6d-4b7f-83dd-7e2fc5e9bf42,2024-04-21,Smartphone,Electronics,4,242.21,Credit Card,East
+a0e3e8ce-e1d8-447d-9aab-df9d8ec4f400,53aff12b-f209-4348-be70-3c1b39c20e30,2024-11-24,Comics,Books,1,848.19,Credit Card,North
+f07ce94c-c6c8-4693-86c6-8e9d853e8ba7,75078c40-4aba-45c0-aa6a-18abebe62a81,2025-02-24,Headphones,Electronics,5,504.17,Cash,South
+8e4ea15f-242c-43d5-b722-1ea8ef55697a,e7da50df-d53d-4e9e-8f4a-4c366d8dbacd,2025-03-16,Headphones,Electronics,1,544.12,Credit Card,North
+b7c5f1df-38ec-417d-b0e5-5a47c7249c55,6883f6d0-3c9b-4778-812e-bd4312e55860,2024-04-08,Non-fiction,Books,4,94.1,Bank Transfer,West
+6f5f0fac-74be-4173-825e-a5682e262c84,a39c0dab-3f8a-41ba-b7f9-7ffbf45b2959,2024-05-12,Sofa,Home,1,846.09,Bank Transfer,West
+88e9333a-0f99-4f75-80be-61a67bd0c65f,c6e2a400-faac-4409-a7b7-70d5732affce,2024-06-23,Comics,Books,1,171.03,PayPal,South
+d7d08cc9-2799-46b9-91c9-3af5ff403367,a363fb81-83da-4cad-832b-ca5d4a25eec4,2024-09-18,Laptop,Electronics,2,943.49,Credit Card,West
+86ea0ea6-75b6-4150-ba4b-dbfc34f025fd,e62c127c-f047-4101-b82c-70bfb119ee6c,2024-07-27,Jacket,Clothing,1,506.75,Credit Card,West
+5889ce45-03bb-467a-b491-fd0c4b88dc6b,7a56433c-1494-4673-8fab-821b81b4c8eb,2024-12-26,Jacket,Clothing,5,914.61,Credit Card,North
+b2897ccd-552a-42ce-b867-b9451db986f3,03186d1f-268d-466c-93e0-33933dfcb3d6,2025-03-12,Vacuum Cleaner,Home,2,381.93,Credit Card,East
+17e29294-a1ad-4056-aeea-0a6ba76bb335,641f2bfe-1f36-4b0a-aed6-79042c87f573,2024-05-09,Blender,Home,3,778.66,PayPal,North
+2c7d5b7f-311d-481b-904c-2a53021bf5df,e4a3666b-0a65-4279-84f2-b7afb6bec700,2024-05-10,Jacket,Clothing,2,386.99,PayPal,North
+f80fb6aa-f7d8-4d56-8c31-403ab9638155,7357b0c5-277d-49de-80af-5482514932a4,2024-04-23,Fiction,Books,1,768.24,Credit Card,East
+d03cf92e-d22c-4ebd-a01b-70ab93a046b1,fa53fe08-0b3e-4bf0-b826-ce43f7026111,2024-12-27,T-Shirt,Clothing,5,304.89,Bank Transfer,West
+901c4b72-28a6-4136-83e7-f8281f77ee45,7896cfdd-b7b2-42c3-b96d-9e610f6ae4fd,2024-07-04,Jacket,Clothing,4,533.34,Bank Transfer,West
+b118f89e-c7e0-4fcc-ada4-082c327a8c65,2e871f3a-2946-4dd3-8602-5fb9aa14a3c7,2024-06-14,Smartphone,Electronics,3,669.21,Bank Transfer,West
+25cf3ee8-734b-48b3-812d-7cf5741c87dd,9c991e4a-0cb4-460d-887e-d318159f76ee,2024-05-05,Headphones,Electronics,5,248.62,Bank Transfer,North
+978c0aad-7702-4648-9f87-2bed64e37b08,a29fc2b0-b063-4971-9f3b-a424a23bc6e5,2024-10-30,Laptop,Electronics,4,146.63,Bank Transfer,East
+c77eb836-b737-4f11-8ae5-e71dc9ae4913,6ef43577-3cf5-4d7b-a4e9-156fbd05bd18,2025-03-30,Blender,Home,2,121.43,PayPal,South
+0a6c8668-0a50-4369-a442-ee89ff00357f,eb130a98-c6b4-4119-9442-0028a9a51753,2025-03-11,Laptop,Electronics,3,299.21,Cash,South
+a0ca1e9a-e107-4632-89f5-57e2580aefc1,9aad7c38-d6d5-4a97-9734-e6e1452fd95e,2024-06-08,Laptop,Electronics,4,986.49,Credit Card,West
+4b323491-93a7-4282-80d5-e631eafac25d,d3e93bcd-8a53-44f7-84a5-b56758a2c23d,2024-12-29,Comics,Books,1,895.22,PayPal,North
+8b944504-050a-44c4-aca6-d3c7036abf17,c7ab3e07-851c-4fca-bcb0-bc5f385c32e4,2025-02-27,Laptop,Electronics,1,100.86,PayPal,West
+406c43ef-e786-46c8-a067-7571b0c1b77b,b938b44b-939c-4a90-a7b4-5a3f45cfc0a4,2024-08-05,Non-fiction,Books,1,244.5,Bank Transfer,East
+af694124-5f0c-4ec9-b9f2-dd7f2d399a6d,db04edb5-3c9f-48a6-8b7e-38acd6a52845,2024-04-13,Jacket,Clothing,4,300.67,Bank Transfer,West
+2b7553fd-500e-412f-a9bc-0b90f387f5fd,8f42bb2c-5170-4550-8e38-67a70527931d,2024-08-29,Jacket,Clothing,1,664.47,Credit Card,North
+c213db35-d22f-42ad-9a55-aa58d6948616,5d9c1715-cc3c-4637-aae5-b442ea002d42,2024-10-25,Sofa,Home,2,431.52,Bank Transfer,North
+f295bbaf-f1d8-48c7-b158-71dfa605240e,2f05ecf4-6e22-4c77-9225-438b76bd262b,2024-11-27,Sofa,Home,4,731.45,Bank Transfer,East
+b3b6c968-97ea-4620-982a-d7513220ea21,facec802-b502-453b-b38e-29464b80dc78,2024-06-21,Vacuum Cleaner,Home,4,584.73,PayPal,South
+32fe5d0b-03cb-400c-8214-840c0fda8b4c,1c7d8b01-ffa3-4e0f-ab2a-8feac0ebb56d,2025-03-29,Fiction,Books,2,199.8,Cash,East
+725ac6fd-bf6e-43b2-ac5f-83cf28abca43,0a2e2791-ad91-40f1-a5a2-d9417199128e,2024-08-02,Comics,Books,2,981.5,Bank Transfer,South
+c258b8a5-dffc-4d12-92a5-1c694d959f33,c2be73e1-9321-4fc5-a708-0140bb2c7016,2024-12-12,Non-fiction,Books,1,704.38,Cash,North
+6d803c83-cb2b-4543-b764-8b6ec84b5ff4,652a68db-ff5a-4c20-8b95-e67aadffada7,2024-07-23,Fiction,Books,4,249.74,Credit Card,South
+33c4ca02-2a50-4423-9dbe-60c320587d7d,1b338b6c-c739-48df-bef3-6b2c9ab6ffe9,2025-01-21,Sofa,Home,1,922.18,Bank Transfer,West
+c319da4d-c08a-4145-ae68-be6dd1233d83,0be1fd9b-1254-46e0-b27a-c1382797c604,2024-08-08,Headphones,Electronics,5,106.64,Credit Card,South
+58b5f104-1118-4bb6-a2c8-407f5bf59cc9,01d278d3-e8ce-42de-9aed-4ed75dddc6b1,2024-10-24,Non-fiction,Books,1,242.59,Cash,South
+48096b4d-9f59-4e36-80ec-a17f8724cc87,55189e15-64b9-4718-a15e-5145ad6ffe91,2024-08-04,Smartphone,Electronics,1,791.15,PayPal,West
+4473fabd-a01d-4af5-a530-abe49fbd3fcb,532f6b2c-7786-4511-9fb2-df37a543ce39,2024-10-18,Sofa,Home,5,253.81,Credit Card,East
+913b62d2-dd9c-49b4-87bb-9a5c57b6362a,2c534f30-fcc4-4089-b126-342518651977,2025-01-25,Headphones,Electronics,3,622.51,Cash,South
+df5882c7-87bf-4a15-8a9a-8cf2b6ffc838,ae35b635-614e-4426-b031-ca1cedcee03d,2024-08-17,Jeans,Clothing,1,812.19,Cash,North
+be392d5c-0ee6-44fd-9eb6-68ad9048af7e,f3e3b83c-a7ce-4799-afb6-779b589bb84c,2025-03-21,T-Shirt,Clothing,2,446.71,Bank Transfer,East
+be72167c-45a1-42d1-9e3b-ea13e3877f2a,885868d0-414f-4312-bf4f-d7f40f814313,2024-07-20,T-Shirt,Clothing,4,702.86,Bank Transfer,West
+77f92ca1-ef4b-45b8-968d-9bde193bb971,d38c91fb-c47e-424d-9d39-f89e88b6e186,2024-09-05,Jacket,Clothing,5,767.96,Cash,North
+d8a4fed0-9b93-4e34-994e-4204c15d7fe6,1f8dec65-bca8-4b1b-b575-dc408f299d2d,2024-08-30,Vacuum Cleaner,Home,4,133.41,PayPal,North
+629c7aac-61d3-4c4e-bd7d-f60266be347d,4fe7ec68-a254-43ef-ad14-fd26412f5549,2024-06-30,Fiction,Books,3,844.43,Cash,West
+0be0d19c-cfc4-459f-bb60-2ea8c0dd2ee4,80fc2cf9-e032-432d-9f4c-b498ec0fa3d4,2024-08-17,Fiction,Books,5,673.94,PayPal,North
+02e21c2b-a9ec-4848-9486-d00a59c032ff,c4ff4e5d-5084-44db-8dad-7ba3e57132fd,2024-10-18,Comics,Books,1,603.8,PayPal,North
+4c1280c5-4e7e-4594-a178-766dc935867f,41f7d0de-e391-4286-96b8-164b737916ac,2025-02-05,Jacket,Clothing,5,386.14,Cash,West
+50536b19-c63d-4a1d-a60e-d20164c0e6a8,8b135dde-d6c2-463f-bbc7-18858de8d79c,2024-07-07,Blender,Home,4,991.04,Bank Transfer,South
+19d272e9-f938-4f52-9a1d-04ae51a80c2f,e93db10e-c7fb-414a-b5bb-f408fba3dfab,2024-09-14,Headphones,Electronics,2,976.27,Credit Card,South
+6a1d6d69-7245-4d3f-a38d-59d91bcd5636,98f898b9-ddba-4483-80dd-ed391f567cea,2024-07-08,Comics,Books,3,546.42,Bank Transfer,South
+bd081707-aee9-4732-a533-909aeb0ab6df,829a925d-179d-4542-a8d7-0ff29d2f90ec,2025-03-29,Headphones,Electronics,5,122.36,Bank Transfer,West
+15263640-6ced-45ec-87e5-699a7ba6b549,785f4c4e-0f33-484b-9fdb-7fa445ba4b92,2024-05-18,Jeans,Clothing,2,688.93,Bank Transfer,West
+b79254be-f892-4546-9f91-e459b542f83d,0ce574f3-db5e-4d6d-8133-b357329493e6,2025-03-10,Sofa,Home,2,858.0,Cash,East
+d9c467ce-7ea7-4405-8f8c-ce844765492c,89846046-e289-451f-83ca-91d525b5ac76,2024-09-14,Fiction,Books,2,634.8,Bank Transfer,South
+ade376dd-ea30-4cdb-8f95-de8a91723c57,eae35bd3-f258-4836-b002-eca30ba2b695,2024-09-05,Headphones,Electronics,5,576.59,Credit Card,East
+27294728-f9e9-4fd0-992b-9f60a9251a37,87226a8c-8297-4db3-8afb-7161ab75b3dd,2025-03-22,Vacuum Cleaner,Home,2,187.63,Credit Card,East
+f8545740-1438-4ca3-9828-d4eb52b4cc2c,b2e31d36-db3e-4b1b-b93a-4106295e32fe,2024-05-09,Vacuum Cleaner,Home,4,605.44,Cash,North
+63c5f2fc-7cb7-43a8-8b46-75c54924f10a,9ec778c7-691a-486c-8b13-574fe4271812,2024-04-30,Smartphone,Electronics,4,214.31,Bank Transfer,South
+38724b87-67e5-4194-9c19-eae550b6573d,959a1ca5-4a5c-4fb7-bf94-6139bb810b3f,2025-04-06,Headphones,Electronics,3,337.15,Cash,North
+e98990ea-d1e3-4d5b-afec-5f1133f08de9,fe1a30f3-943b-4c78-af03-8e8e2186efe3,2025-03-16,Blender,Home,4,761.63,PayPal,East
+327b86d6-854c-4b0f-a29c-bafd73d0b811,0e77f3e2-46e8-4226-a7fe-dc567377db09,2024-10-19,Jeans,Clothing,4,769.77,Credit Card,South
+2a7151c7-af35-42b6-9372-6d9b8461bba4,f698ebef-024d-438d-acb1-84006ec090b5,2024-12-29,Headphones,Electronics,5,613.65,Credit Card,North
+3efe8f9b-8965-4d07-9032-fd11f464108b,accba50e-cbd2-41f6-9d7e-516b5c1d4eaa,2024-11-07,Smartphone,Electronics,3,115.08,Credit Card,East
+3b17d512-72f2-44a6-af87-8e22e2e4f43b,5f3398e3-030e-4b77-9720-cc54a9bdbeb6,2024-05-10,Jeans,Clothing,2,100.38,Credit Card,East
+541f8be3-e0de-4b06-b71d-1550ff2bdb0d,ae9929c3-98da-4e0d-aab4-a84bfee76a5b,2024-07-30,Headphones,Electronics,3,167.43,Bank Transfer,South
+d640a003-99c9-464e-bf0d-3b4071267358,bd33275e-8f5a-44d6-a23e-6460b06dbb30,2025-01-24,Fiction,Books,2,140.37,Cash,East
+4adeec10-278a-4984-aa75-fa923e3edeab,f769ebf9-77d3-4914-8e7c-d63a1532b6c9,2024-11-02,Comics,Books,1,873.5,Cash,North
+b7c24d3f-0976-4a9f-ac76-08f8ed6e73bc,9a048a08-d41c-41d6-9956-27224641c0cb,2024-06-15,Jacket,Clothing,5,781.19,PayPal,South
+d69cc974-b272-4d9a-8ae9-eaf2186aa178,6c57bef0-c52c-4497-a338-da518c53c1c9,2024-08-18,Smartphone,Electronics,1,144.09,PayPal,West
+8babc7b4-536c-4d88-a46d-822d2e80caa5,83124aeb-d5ed-400d-bd7e-91a0d14d10aa,2025-02-24,Sofa,Home,3,204.87,Cash,North
+0089821e-faf5-46cf-a575-90d52486b014,4960d7ab-204f-4487-8c01-1034d6fe377a,2024-05-13,Headphones,Electronics,2,469.59,Cash,West
+46bed1a5-a40f-4e24-b3dc-c9317534d952,8719327e-dc8a-4df7-a684-144c11485fb5,2024-11-05,Jeans,Clothing,2,796.2,Cash,West
+7e2fa8cb-3f8f-4e8b-b7c8-562201fa401b,81db97cd-6df4-44e3-bb70-79c6ccec5616,2025-03-06,Blender,Home,3,663.85,PayPal,West
+7f46d84e-ece6-4275-afe2-8f31593114e7,82fc68b8-ecba-4eec-bd3c-646054de8497,2024-08-09,Headphones,Electronics,5,797.16,PayPal,North
+7f6e7e87-2743-4f03-95a9-b5204898c64a,94f8fbad-9511-4af4-9cb3-cfd582e0e775,2025-03-27,Blender,Home,5,570.73,Bank Transfer,North
+1e7be3da-26c1-4365-a395-a228bed04166,cc894d71-4352-4cbc-afe2-61178ad4305d,2024-07-31,Non-fiction,Books,5,756.53,Cash,South
+973814c6-c92b-4e22-b021-5b2a77bce780,a6634383-8eea-4e30-ae5e-0229f4e29331,2024-09-07,Fiction,Books,3,569.8,Cash,West
+f6ab9511-28b7-4492-a608-518e2b318a04,153dd4d5-d904-40d5-9210-6edfdc4550bd,2025-02-04,Comics,Books,1,562.45,Cash,North
+52ad6636-4ffc-497d-a371-e2ed7f67cb5a,37b77a42-bd69-4e8f-8e81-a616c73f9cc6,2024-10-07,Jeans,Clothing,5,453.77,Credit Card,East
+261d093c-2a9f-498b-b1c7-0705a078aada,53cc3fcd-83f4-4e78-b1ee-ccbe0107297a,2024-09-11,Smartphone,Electronics,4,857.19,Cash,South
+6eb606e4-eeb0-4856-a24d-00b9c024ace3,32cb86f6-5e14-4065-b9c4-13b540fcaea9,2024-12-10,T-Shirt,Clothing,4,126.16,Credit Card,North
+c6537468-b398-462b-bf24-c07652f0b8a7,9f034900-2670-408c-aa82-156b89676398,2024-08-31,Jacket,Clothing,4,150.59,Bank Transfer,North
+684ebd92-e37d-44a0-bd97-bd0a4f9d385f,2f96dd5a-1741-47a8-a3ff-47a9661014e8,2024-08-17,Comics,Books,1,11.33,PayPal,South
+47a5cf16-dac4-4180-82e7-84f6bbdde5e1,8a325f25-d187-4cf0-ad13-de11308fcf90,2024-09-28,Jacket,Clothing,1,845.88,Bank Transfer,South
+4aec2182-eb71-47c3-8ebd-bd7efb5184a3,c84ef475-b627-4699-b385-e368f12156f9,2025-01-16,Comics,Books,4,333.04,Cash,West
+929374ea-8c28-4256-b517-3d6ebbdb7475,e8863d45-6848-488b-8a37-44c27fce96ab,2025-02-24,Fiction,Books,4,468.6,Bank Transfer,North
+d5670482-7dc9-4d88-b31a-03cea2e6814e,dd005588-f567-479f-9ff2-bf803e12693a,2024-07-16,Headphones,Electronics,5,485.65,PayPal,South
+2fcafab6-ae36-44d1-b6c2-7c51cef23eb6,de2cbade-d4dc-48ff-934d-609fce8e3e66,2024-10-06,Comics,Books,1,685.26,PayPal,North
+92c2b04f-f587-404c-9213-f6eb4aa0b5bf,b726cef9-bd48-4196-89da-2d6626a7e83a,2024-06-21,Vacuum Cleaner,Home,5,970.85,Credit Card,West
+8f4aee1e-cb8a-4ea2-8384-4a367023bdfe,919db346-9695-4df7-9184-b695a05adc79,2024-04-29,T-Shirt,Clothing,2,275.2,Credit Card,West
+5f9f9dbc-28e0-453f-b6d8-63e2382895c9,76175481-67f1-4596-a020-54e0453b119a,2024-12-09,Blender,Home,1,63.56,PayPal,West
+786de2ff-9b49-404f-8009-935dba25c2ad,4298acf1-1f38-4b80-8825-899c098087cc,2024-04-22,Headphones,Electronics,1,900.89,Bank Transfer,East
+d9e55231-32a2-4934-a107-093da05c3526,81ec06a7-b07a-42e5-abac-52f21e92f0e3,2024-05-31,Smartphone,Electronics,1,943.91,PayPal,South
+1855f1d1-62d7-4fb1-999b-9264fd48532d,a6688708-9a5f-4fa3-abda-6db9a3193d7f,2024-09-26,Blender,Home,5,285.16,PayPal,North
+8dbb15d9-da3f-4c18-b2e6-b9536657b43f,d7139def-de30-4ea6-838a-d6c5dde8d701,2024-05-09,Jacket,Clothing,1,640.63,Bank Transfer,North
+80f659ec-4d04-4d2d-aac5-19507fb1b85b,30621cf1-7922-4839-9856-47eceb67c8c9,2024-10-12,Fiction,Books,3,281.1,Bank Transfer,South
+aaecccc8-db1b-4f71-ba63-5bee7b9bebdd,5333eac2-2bc3-4c92-80aa-cf00158e528a,2025-01-01,Laptop,Electronics,4,216.22,Cash,West
+fb8e56f3-44d3-455e-a4de-7bd072d0fe57,3bbdb417-0c8b-4425-895e-d6f4745e4728,2024-07-30,Fiction,Books,5,595.09,Credit Card,South
+86e4b6fb-a071-4201-813d-3f0e3eb2d6a6,d8bb6d1b-ce39-4619-8c67-32ed805cef58,2025-03-03,Comics,Books,4,673.82,Bank Transfer,West
+50376f6b-4277-48fc-8a2f-f2e62d3b6be4,ce9b1a59-51b1-40ed-9ab6-4dd0c488653d,2024-09-17,Jacket,Clothing,3,843.24,Credit Card,South
+ed179d74-5798-4235-bfb4-e9a82ba05841,81feb6c7-b973-48c4-b5a5-551dd635a8fa,2025-02-09,Blender,Home,5,481.32,Cash,North
+b9dc1e13-5acc-464c-8a2a-db78a10e52e4,a5ad2989-dfa3-4aae-9e7d-ca1b9f0453ba,2024-11-19,Non-fiction,Books,4,67.71,PayPal,East
+cb7e527e-d16e-4bf6-bc0d-25373f2ef379,c69a795f-f5e1-4571-a5aa-38c9fd1a75cc,2025-02-19,Sofa,Home,1,757.52,Bank Transfer,North
+ef0f139c-72b7-4ad7-9a6a-0a4f9038640e,e0f627ee-5778-45b0-90b4-77094e340de4,2024-06-15,Comics,Books,4,30.97,Cash,West
+c68d7a8c-f119-4664-bff8-40b0a02b3077,44e74a08-9ca4-4382-9bf0-5ef7d9881953,2024-05-21,Laptop,Electronics,1,36.13,Cash,South
+7c777714-fa54-4088-9284-3e317c915c62,4cbdd8dc-335b-4147-ba99-e50fbabb140d,2024-08-27,T-Shirt,Clothing,1,323.14,Credit Card,East
+67ed8c55-251d-40b2-a774-896f886f8cb2,8a54348d-719e-4f8b-98ff-4936e84aee93,2025-02-10,T-Shirt,Clothing,1,322.89,PayPal,East
+e223463e-cd98-4dbf-9179-86047ba9b6e4,a8d25ebe-b5cf-48d9-9fef-6a37f83b3e64,2024-06-01,Vacuum Cleaner,Home,2,734.01,Cash,North
+1e510cf7-2dd1-4282-9fdc-409dea5fd931,1f059388-d854-461e-a6a7-5045b0935e2e,2024-05-13,Headphones,Electronics,4,734.43,PayPal,North
+eba3ce64-4f00-44a1-aedf-2739d05b3b94,ed023d46-39b5-4695-910e-f2dff980b9be,2024-10-11,Vacuum Cleaner,Home,1,37.16,Cash,North
+a4150d28-88ec-421d-8d42-55e7e787f252,f53cdd9d-9241-48e5-bcd7-1862e47f4caa,2024-06-23,Smartphone,Electronics,5,126.63,PayPal,South
+2b83a8d2-42dd-4ab8-90cf-226e74b3404d,9ef06b79-3d4c-44a6-a21a-9cf80cb55950,2024-10-06,Vacuum Cleaner,Home,4,134.04,PayPal,South
+9659f624-f5a5-49dd-85c2-4b9da2006586,85139b83-e61c-4fe9-8873-83ab0782e9d3,2025-03-17,Blender,Home,2,287.73,PayPal,North
+ca781057-e29b-4e29-8dd4-51448a163ec8,fc8a7f60-7af3-4218-a6b4-070d7ddf6b3a,2024-07-24,Smartphone,Electronics,3,22.35,Cash,West
+2c63aa29-8737-4332-a4bc-127a113c35e7,321d87bc-7f72-40a2-b36f-12430a1cf375,2025-01-17,Vacuum Cleaner,Home,3,189.96,PayPal,North
+ab70e77d-3ef6-4228-ab66-5e07f51cf96f,8a3a5be4-5d3d-4ec8-a2a2-125f1fcc5016,2024-07-25,Jeans,Clothing,5,359.89,Credit Card,North
+df94a1fe-1009-45b3-99aa-f7ec31cb475b,5904962a-b800-461f-b53e-c43034fb3b37,2025-01-17,Jeans,Clothing,4,516.37,Bank Transfer,West
+68cfcb7d-9108-4f18-b7ad-15c8cbbb6246,fa0c6a4a-6a61-4632-9b17-850f9982efa5,2024-05-21,Fiction,Books,5,312.88,Credit Card,East
+1e1b1bc4-c457-4dc7-ad67-9fd39301f17a,7090689c-77a9-4938-933e-384e01c8e424,2024-09-10,Fiction,Books,3,471.33,PayPal,South
+e5837dec-8ccf-42f0-8ef2-38db27a2fd43,3f54a928-7ef7-4520-bd61-970dc0ac758c,2024-05-21,T-Shirt,Clothing,5,798.94,PayPal,North
+5883e347-186f-47fd-80a1-e7ebe020df24,28619727-086a-4af6-a5e2-84f5183e6806,2024-08-14,Laptop,Electronics,5,865.14,Bank Transfer,East
+dd07ef18-280b-4cd1-9e88-d3a32f01c912,e3ccf343-f2f6-454c-b33b-4296e90bd8f6,2024-07-21,Sofa,Home,3,102.07,Bank Transfer,North
+ddf77ca9-14aa-4699-8c4b-1aa56dcf2283,e86b9b81-f624-4008-98ff-7b5543719c79,2024-09-06,Blender,Home,1,131.71,Credit Card,South
+dc8f678b-5283-4e50-be07-6d46b2c87eda,4f245205-7eda-49ab-864d-f557cf855e23,2024-07-30,Comics,Books,5,588.6,Credit Card,East
+b2ba2ee3-9157-4903-aa51-f83102ea8930,d530cd08-f05d-4fcf-aa21-87d40721c596,2024-09-07,Fiction,Books,3,27.71,Bank Transfer,West
+a70cca74-3d58-4609-ad45-a6f1a51037d0,257791ff-e8f1-40d0-83a8-875dbf04a312,2025-01-17,Smartphone,Electronics,2,539.41,PayPal,South
+a1b4a691-04cb-40c1-b4c0-5bad7b786c1a,89c3c4ac-3e7a-49d2-b4f7-be9b53c5a988,2024-07-09,Comics,Books,4,968.01,PayPal,South
+a4343a5b-92df-4bf7-8c1b-f86f90d632f0,8450ea33-12be-4184-a844-97acce4dea82,2024-08-30,Jacket,Clothing,4,122.2,Cash,North
+e59e1fee-4b4a-42c0-aba8-784f622d640b,b3dbd356-2f2e-4cfd-a761-e32f90e9247a,2024-09-18,Jacket,Clothing,4,406.98,Bank Transfer,North
+eb1ddae6-a730-43ea-bee5-806234c7c2ec,d8753684-e4a0-43c2-8306-57d43c705bca,2024-07-31,Sofa,Home,1,57.44,PayPal,East
+6c27e16e-d068-49b9-add6-5ef362a7e899,249d86a5-c631-46cc-bcfc-489748a62d97,2024-06-28,Fiction,Books,4,41.7,Bank Transfer,West
+684944b2-bc42-4936-9c41-d969e3be7243,8813fb39-048e-4917-ba55-501bff60105c,2024-10-23,Vacuum Cleaner,Home,5,845.21,Cash,West
+21454cf9-df6f-4ace-b6c0-b5fbdc1b3b0b,691f0ef7-6e49-4d69-855b-b28e8c2c431f,2024-04-13,Laptop,Electronics,2,702.76,Bank Transfer,North
+18445eba-dde5-433a-84dc-4bff4f959d78,b1431b4c-29af-4120-85f9-58c5be75d716,2024-11-29,Blender,Home,4,460.16,PayPal,South
+0705d4df-0fbd-4bc3-8d17-7a0b99e1b733,991a38c2-4201-4eeb-8a22-8da784d3772d,2024-11-30,Laptop,Electronics,4,772.5,Cash,East
+a2a8e53f-9947-4c73-9e5b-3ff48a7a22ad,5c0d471b-8858-41af-8891-de396710b012,2024-11-06,T-Shirt,Clothing,4,611.1,PayPal,East
+e6f4ef12-1ade-408b-9e2c-e9a7cb19a350,aacbfea7-b17d-4c6b-83f3-9ea5a9c1563a,2024-10-03,Vacuum Cleaner,Home,5,332.66,Bank Transfer,North
+466602e0-cd35-40b0-9146-b2328bf01105,3c5b298e-64d5-4426-be08-442b6c530b2b,2025-01-09,Comics,Books,2,120.44,Bank Transfer,East
+81c0953c-115c-44cd-9bb5-345a5263fce0,65ddfbc9-86fb-454a-8547-4a15de6730cc,2024-09-01,T-Shirt,Clothing,4,526.01,Credit Card,West
+4a5f6950-374f-470b-ad2e-c0ae36879179,02c06ead-516d-42b3-a0cc-82611557a52c,2024-11-01,Jacket,Clothing,2,369.21,Credit Card,East
+9534bc61-fd33-4bf1-b411-b3eb22eb017e,fc1dbe50-26a3-4ef9-bd2d-7e4b728a1845,2024-05-07,Laptop,Electronics,5,208.88,PayPal,West
+d7be17af-e27d-41e2-aad3-38a96249c3bc,02d71a8c-271b-4a69-997a-2f282bf162d8,2024-06-22,Non-fiction,Books,1,623.63,PayPal,South
+8c83e5aa-3611-4da6-8f91-3850bad1f288,a4fdb815-b436-446d-93b2-a69442668ca4,2024-05-02,Non-fiction,Books,3,997.85,Bank Transfer,West
+b44dd210-76a7-4bcb-a4fc-eecbfcfa8c18,0371bc77-919e-495e-a882-e0c23df82b4d,2024-10-26,Laptop,Electronics,1,607.21,Bank Transfer,North
+3ff08f72-ce91-413b-896d-f6bbbdc26abc,65e1f250-46e4-4f0f-8936-223633d416af,2025-03-08,Sofa,Home,2,349.19,PayPal,East
+a7c98ab5-ab00-4ee0-9629-1711e7003d30,8af9b0e5-edb6-4d2b-aa9c-caed78171756,2024-11-23,Comics,Books,4,58.56,Credit Card,West
+88c5af34-a809-43d3-8bdb-82793c6248f1,61cf69e3-b3f4-436a-9da2-b42a5e256710,2025-01-22,Headphones,Electronics,5,200.05,Cash,East
+45c162d5-e1e2-474c-a251-e8aaaae77981,42d23dbc-a0bf-4259-aedd-9274528ceff3,2025-04-07,Jeans,Clothing,4,243.28,Bank Transfer,East
+21f6e6d1-1f95-4dd0-a57b-c0d25d8d3e6e,3b0dbcf2-2753-452a-8e2e-3b3c957221ae,2024-07-04,Blender,Home,3,794.94,PayPal,East
+71fa4791-a217-408b-9254-029dd3e5bc32,9e07630f-63b8-4236-8e49-b3353474db72,2024-06-11,T-Shirt,Clothing,5,204.56,PayPal,North
+875e5000-1e71-4850-a684-12dc3a301cdd,2e548cc7-db58-48bd-88a4-3f136d2f7f9c,2024-09-02,Sofa,Home,3,842.4,Cash,East
+6cd802b0-efe8-474c-9cec-ff005a5f1039,09f87fd5-096e-41f6-b586-01c7f4a2d54b,2024-11-27,Jeans,Clothing,4,638.87,Credit Card,North
+8c35210c-18a8-47e0-ab4d-a10f2f23689a,df712496-380c-460c-a4e8-c47bf3008c4b,2024-12-29,Non-fiction,Books,3,419.0,Credit Card,East
+d45091c7-4fef-4b93-ad1c-3b96c2555dee,65ea33d0-ef76-4cab-83ab-a8feb2dfa5c4,2024-07-27,Sofa,Home,5,467.81,PayPal,East
+268f9bc0-51a8-4c1f-b286-d3d0b919d461,cf3873e9-b2b2-4282-9c10-ddda34d7b7a6,2025-01-09,Comics,Books,2,194.88,PayPal,South
+10bfe826-b480-4998-8adc-19113b886450,13777664-eb47-4b7c-a2de-48a6b910000e,2024-12-10,Sofa,Home,5,580.12,Bank Transfer,East
+c781946b-8769-41cc-80cd-d874782ab000,04f9d4b4-0fe7-4e75-a349-7c13ab604792,2024-08-12,Headphones,Electronics,3,647.78,Cash,South
+2e774da3-03ab-4b29-a09c-80233a8a1480,db6b75c3-f700-462a-bd8c-3a5e076a78ea,2024-10-13,Jacket,Clothing,5,165.6,PayPal,North
+fa46bf32-a994-419e-9c59-fa7c844bf667,fbd4a794-5a30-475f-8aed-64d6092d2c79,2024-06-27,Sofa,Home,3,871.26,Bank Transfer,West
+7017429c-5125-4b73-9d5e-f63ffd0b8648,35e7f234-b394-4991-a0bd-d3053602e855,2024-07-30,Fiction,Books,5,169.81,Credit Card,North
+0493a75a-b437-4dc1-92d1-6915473cef63,c45e8388-bc56-4112-923e-6f03116e89b6,2024-11-28,Comics,Books,1,449.31,Credit Card,North
+a237d84c-5e35-420c-bafc-d0df482e5cb7,509e97f9-9f50-4561-858f-618c74d5dca0,2024-04-30,T-Shirt,Clothing,1,679.55,Bank Transfer,East
+a29b9d5f-62a5-42ce-8d6a-ff5eaf58deb3,670c1a99-dd76-483b-9866-36acbaa6ce83,2024-06-08,Jeans,Clothing,4,803.16,PayPal,East
+a0bb61b7-3ea9-466c-9c06-8a2c7bfbba7b,e2db3177-8c2e-4306-86d2-e4eb52163bca,2024-11-19,Smartphone,Electronics,4,580.37,Cash,West
+6159a6ec-a3e5-4010-a326-6ad9b017989c,22357ac2-901e-409d-9a72-cfdab3e05b4e,2025-03-11,Headphones,Electronics,5,55.09,PayPal,North
+1cc9b5d0-da95-44e0-ba29-6a3902947ad5,2313b66f-9da2-45c3-ac8a-c6da745aa1cb,2025-02-12,Headphones,Electronics,3,275.9,Bank Transfer,North
+1b76c5e1-f276-4aea-a133-a589e3363675,7847392f-879f-4da8-8e4e-e3a9d2d62383,2024-09-17,Fiction,Books,1,801.12,Bank Transfer,East
+2e40dfa3-9559-4306-bf58-00ff001fc649,ad835657-2dcb-4361-951f-38187650f270,2024-06-25,Jeans,Clothing,3,844.55,Cash,West
+ad452584-9b78-45ab-8457-bd77dc288800,051209ec-4ce9-48b8-a5f2-436e7c6af4ec,2024-07-02,Laptop,Electronics,5,43.29,Bank Transfer,East
+ee9e9409-7f93-4836-8ba4-2f3a913f8cdc,e9135c26-f855-4dcb-8c37-a5c229ddebd6,2024-07-20,Laptop,Electronics,2,774.38,PayPal,North
+ddb8ee4c-56f8-4b41-8bbd-54a519835670,11fe5c1e-47cd-4d3e-8720-faddbdcdade0,2025-01-30,Comics,Books,1,529.33,Bank Transfer,West
+3cc7a3b0-1fa1-4798-ae4c-7b4f6be6ea67,08af9e24-d450-4b39-bf6e-8366c3a693ab,2025-01-25,Fiction,Books,5,638.75,Cash,South
+579e2610-5954-4ed9-b190-7faef11aa4ea,a64508fd-8583-44b0-9118-e817f25f342a,2025-03-05,Jeans,Clothing,5,145.99,Credit Card,West
+11cdb038-5b94-4cd8-818f-c8c398560615,bb90e561-75b7-405b-982f-4bbd4837ea99,2024-10-27,T-Shirt,Clothing,5,930.83,Cash,West
+a2eacd5a-5080-405e-b66f-891bdc24d71f,ce1933fb-f15e-4a56-83fc-6f4c634539df,2025-01-24,Jeans,Clothing,1,734.33,Bank Transfer,South
+6ce7b0ab-ee90-41d7-9de6-3689a41a841e,60090135-3817-408a-8584-1c95c7bd2981,2024-08-31,Non-fiction,Books,1,495.02,Credit Card,West
+63591b95-81ef-4698-9a2f-dc1feb82a4fb,90d9f7e1-8188-4b9c-b19e-6566a08b5844,2024-11-04,Laptop,Electronics,5,272.77,Cash,North
+ae5f3153-cc50-4f28-a8dc-286e65c6521b,577a7c1a-c94c-4854-8fed-e2bf0c2d9cad,2024-08-07,Headphones,Electronics,4,197.44,Bank Transfer,East
+8d844fce-3372-4fb3-9016-f7f2469272d0,c86064e2-9319-4e51-b5a1-376e00978bd5,2024-09-03,Fiction,Books,2,213.12,Credit Card,East
+ef314fc4-24b5-438b-940a-946ccc816ddd,88e3b4ef-cf78-4faf-9d5d-6c294e47a731,2024-09-20,Laptop,Electronics,5,124.09,Bank Transfer,North
+665fba21-69d5-4eb3-97f9-c3c1a9320970,87e2816a-2e86-4c37-b09d-4b1451895292,2025-01-12,Jacket,Clothing,1,504.52,Credit Card,North
+9da6da3b-7c09-4a4d-8585-f33568789822,69905ecc-e43a-4d68-841e-6f7131033958,2024-05-23,Jeans,Clothing,4,117.44,Bank Transfer,West
+d011f95c-1f20-4866-8c30-018f7f6c00a1,0ba8ee80-179d-4eac-b7f1-3ada0a0a44e2,2024-10-07,T-Shirt,Clothing,5,183.57,Bank Transfer,South
+0fbb5bd9-a493-49b7-8319-67e5092f4b9e,9a79b09c-de4b-4635-a448-319cd1ab4838,2025-02-27,Vacuum Cleaner,Home,1,187.89,Cash,North
+2423212f-3a5f-47f5-b38f-6d49668aa340,f9cc0b2d-92ee-4cf2-bacc-3abbd2e7bfd9,2025-01-17,Sofa,Home,4,485.16,Credit Card,East
+6debb47b-b7d2-467c-83f8-f7db252c4b7f,1cbce0ad-4e85-47a1-8a53-f4a49701f9e2,2024-09-09,Blender,Home,5,459.62,Bank Transfer,North
+25fb8d93-c1f8-4514-98fd-84319273ee44,80cdf0f9-2f83-411c-b0b9-46e5a338eac7,2024-05-18,Headphones,Electronics,3,122.23,PayPal,East
+cd394dfe-9cab-4faf-b13a-aba2733ad60b,bd0d5e8c-2ba0-4865-9195-e7c5259182ee,2024-08-04,Smartphone,Electronics,4,701.83,Bank Transfer,East
+91a351d2-7f86-4d34-91f1-cf5e64cbe8df,adf2182b-4992-446f-a7ea-67d2b6f2f2fd,2024-06-20,Sofa,Home,3,738.47,Bank Transfer,South
+db239ff4-f078-43b3-8519-256ccde10e92,416662b6-db34-4266-86a2-9ef84fd9d47f,2024-10-12,Headphones,Electronics,5,468.3,Cash,South
+2355dc52-5e0a-4cd4-8904-9e9e52458948,0bd589ef-1232-4176-91f5-0514698fee06,2025-02-13,Comics,Books,5,474.26,PayPal,South
+38db3b3f-10c5-4d54-8bf8-8a9813a71748,54acd668-f308-430c-ad20-ba366d7987a1,2024-06-03,Jeans,Clothing,1,811.77,Cash,West
+2d7ede6d-f8f0-4774-966f-86c84fe49593,b0fb3521-967b-4f5f-837c-5b9442b8ead3,2024-10-07,Fiction,Books,2,809.96,Cash,South
+f0d081a6-58ba-4de3-b47b-673b9938ecc5,0b5eb31f-4c68-4356-bb5e-4d4ab5778664,2024-05-28,Fiction,Books,4,492.65,Cash,South
+ee0ada4b-30f7-460e-ade4-bff170d36ea5,95c04ecc-9e65-48a5-852b-d173a462b789,2024-10-05,Jeans,Clothing,1,310.92,Bank Transfer,South
+215a76fa-ebf6-4b02-944e-2f7d104fd227,7e984c00-6506-4c4f-aea9-4f5721bb5e23,2025-02-04,Comics,Books,5,463.33,PayPal,North
+248c7acd-11d3-4929-94b1-99996bf8bf72,a9645a34-be89-43c5-987a-4c466bd70968,2024-10-15,Comics,Books,2,444.28,Bank Transfer,South
+13bbd4d9-9d73-41ff-997d-bdf70b39f742,207fcf61-7a6f-4643-aea7-718d33d45119,2024-10-04,T-Shirt,Clothing,1,203.82,Cash,South
+2ddfe2c9-d10d-45fd-87d2-c6bf8a6f0f82,389286e2-5f50-4efa-8bee-0326d8be9ffe,2024-07-30,Blender,Home,4,107.59,Credit Card,South
+b9c27830-98de-419d-a9cb-dcadfad41a50,9a8038e8-0522-4b1f-bda7-24a3c751b79b,2024-11-08,Smartphone,Electronics,2,737.07,Bank Transfer,South
+c2882763-da46-476c-b5fa-8f05b98bd163,1784a57a-9081-4de9-9bc7-f26fb513b4f4,2024-09-14,Comics,Books,1,736.31,Cash,East
+3b2f0dbc-eda6-42de-a0de-e3384524ced7,732f6b1c-7f0a-4c38-8bd2-be4d5d9b200a,2024-07-02,Jeans,Clothing,4,24.49,PayPal,East
+13969084-1d7a-48ff-b6da-b1976cbce5f3,b4652ede-b6b5-4407-bac4-2cd3b310157a,2024-05-14,Blender,Home,5,487.65,PayPal,West
+09320cbc-99a1-43da-a0f6-a36718988b1e,c65d99a9-e260-44d5-be87-e5eac4f89770,2024-11-19,Jacket,Clothing,5,852.62,Cash,West
+3bf27b16-365d-453b-a496-9df85eda0e5e,b08eb8c1-d04a-444f-8a59-171e6636bdfe,2024-04-09,Headphones,Electronics,2,477.4,Cash,West
+cd01676b-0649-4828-9973-e5b92405abe2,31d7fbb5-64c5-47a0-b4b9-e64d32c57bd2,2025-03-14,Non-fiction,Books,1,522.73,Credit Card,South
+b34898e9-2692-4bf0-a10d-fa1179a8a3f8,f232fd19-1121-4108-9927-de7a89b56e37,2024-11-25,Vacuum Cleaner,Home,4,426.41,Cash,South
+dbc4b9b9-e6a9-4315-8be1-28da1710d6c8,adde68cb-4d68-453b-ad3b-36dfd5483475,2025-02-22,Non-fiction,Books,1,581.23,Credit Card,North
+3ecacf06-3e4b-40a2-8c35-a8ea0719374c,c77b4fe4-2b7d-4bc3-ae9f-d9fea4111121,2024-04-18,Smartphone,Electronics,5,306.27,Cash,West
+81f6d675-4dcf-4b76-af3d-a80c18019f2a,d7d92a18-0972-4bb5-9612-31832d9b9b79,2024-10-12,Jeans,Clothing,1,67.01,PayPal,North
+92210d0d-8581-4a74-87a6-9a76168ab3bc,98a566b0-c5dc-4e64-b27a-c844d504206f,2024-08-23,Jacket,Clothing,3,32.22,PayPal,East
+d34634f7-bf72-4e6d-8ffe-cf6cd080cb12,5640421d-7056-476e-a8f0-463acebabc3f,2025-01-05,T-Shirt,Clothing,1,138.05,Credit Card,North
+bc68b98c-c4c3-4915-abca-28ab2ab9c0b3,50ad7756-9d18-4206-961e-1d7af2dd8cf1,2025-03-20,Headphones,Electronics,1,601.79,Credit Card,West
+05772350-c961-4a76-a834-3f4aa3213a5e,55ea075f-b47a-4c59-91e2-3ffe36c9b8ab,2024-08-30,Vacuum Cleaner,Home,1,371.1,Credit Card,East
+465515c9-452b-459b-8b4a-1fdca8277686,f5820456-8cc3-4c3e-8d8f-2b069dbc16c2,2025-02-10,Blender,Home,4,755.62,PayPal,East
+188d079f-2cd9-4cea-ac16-334aefbfbab2,7240f3d0-a908-4192-8a8b-a322b0f0d110,2024-07-03,Smartphone,Electronics,1,315.19,PayPal,South
+e8fd6e87-47a0-4203-a138-5bc3b6e2c12f,4da1abfb-546f-4800-9351-2fcd25a9f62b,2024-08-21,Smartphone,Electronics,5,143.34,PayPal,West
+97a83714-2a75-45a4-875b-f4f50f21bc36,9f369971-466a-4138-9b46-d98336cb53d6,2025-03-17,Blender,Home,5,284.22,PayPal,West
+d1221780-0402-4cb7-9f32-8332e34047c7,7a1ed474-72a9-4c34-bf03-cef623fb6093,2024-08-23,Jacket,Clothing,4,664.23,Credit Card,East
+319e1254-36bb-415f-bd73-3429657c0438,39c7604f-3ee5-4c0e-a84f-f43bf7bbe805,2024-09-06,Jeans,Clothing,3,259.19,Bank Transfer,West
+004b7035-78cb-4204-9f35-0795b9d3c507,3271f8ac-d66d-441e-86ca-210bd6b61bac,2024-10-07,Headphones,Electronics,5,848.66,PayPal,South
+047af24d-1751-4815-85b0-1e9dfbf928d7,0073e684-1dca-411e-8937-3264a4ce4576,2025-02-13,Laptop,Electronics,4,603.04,Credit Card,West
+f9881269-9a2d-4828-b34c-b9a3fb425595,18caf2a2-d033-43bb-838a-f3d9c392e462,2024-06-13,T-Shirt,Clothing,2,658.54,Cash,North
+59443e55-f86f-4878-a49d-0c0366188be6,9c89d12b-5d14-4630-8971-718f8eda0b82,2025-01-07,Fiction,Books,3,476.39,PayPal,East
+b1c78577-4e85-489c-945a-2303b3435fa5,c869ab3e-d310-4b67-b7c6-037b11b07e91,2025-03-27,Blender,Home,1,246.25,Bank Transfer,South
+3fd71bb3-0e54-4d90-b5bc-90eb48b9a95c,4723751f-5529-44d0-891c-fab4d673641e,2024-10-27,Non-fiction,Books,1,994.96,Cash,North
+b7138c52-a956-428e-a197-e41eb51ccb3d,08d92319-d353-4e5b-bc09-c08c0d8421ed,2025-01-29,Jeans,Clothing,2,632.54,PayPal,North
+dfe0470a-c502-4eaa-a235-46952b8e9aeb,88f1c9ed-734f-4151-93ee-5b05ec44cc8e,2024-10-22,Smartphone,Electronics,2,331.24,PayPal,East
+64b3c3be-2cca-4de8-a739-e93bec77a99f,01f966ff-4c6d-4379-a6d5-056e6c65eb01,2024-06-28,Vacuum Cleaner,Home,5,134.9,Credit Card,North
+f26e8513-e028-4960-96f9-7ae9926e71b5,a20d5441-cc50-49c9-9915-74fd85868f4c,2024-09-28,Sofa,Home,4,866.03,Credit Card,North
+54d2bff6-ec4c-438f-b651-7f22403b135a,95165439-15e4-4f1b-b7b7-b98cc3404441,2024-12-18,Comics,Books,4,888.89,Credit Card,East
+dc4e36e8-f958-492f-bf75-9bbca6a15c69,f846ca41-2936-4a6e-bc97-c8c000564a04,2025-02-17,Smartphone,Electronics,3,399.52,Credit Card,North
+ea2244b3-fc66-4106-a1c0-965d7f9cdb84,efbb5ec6-c3a8-4abf-8534-11d491c7fb5a,2024-06-20,Sofa,Home,4,574.55,Credit Card,North
+ec8be985-8787-437f-ac71-3b7fafd3385d,8f47bc1a-b391-40d3-b1f7-70bdc9dafe22,2025-01-23,Jeans,Clothing,2,248.97,PayPal,South
+1cac8eab-7e1b-455f-be04-95d728ca99e4,8040c629-2594-4e77-8997-648989b6992e,2024-11-30,Headphones,Electronics,5,611.15,Cash,West
+55e6e326-fff0-4fbe-8592-751ce5ce26b9,f0923edc-3ef5-4233-a884-0c5cbbdc2599,2024-07-30,Jeans,Clothing,3,65.0,Cash,South
+7a48cdef-deee-438a-88ae-0dd7a2340c04,39d95501-2a97-476f-9411-834ed5b13364,2025-03-30,Vacuum Cleaner,Home,5,215.85,Credit Card,East
+2853b0d6-7d72-4f71-94e5-2ee99dd4305a,733f2d92-7e3b-45ae-b8d8-130b23574e08,2025-04-05,Fiction,Books,3,317.02,Cash,West
+632e9177-0726-4d88-bee6-c8593440725f,a4c941a8-8bf4-401f-8db7-b4e3c047eae3,2025-01-12,Non-fiction,Books,1,231.5,Cash,North
+7ab7dbc8-abc6-4106-9bfd-1b3b09124e0b,6a468f9f-ebc8-4092-a4b9-5c8469af83d0,2024-12-12,Non-fiction,Books,2,893.85,Bank Transfer,South
+a97d0244-328a-4ff2-9d87-e522cb06be1e,f20e475c-4fbc-4e43-9eee-bfc140fc67ec,2025-04-01,Fiction,Books,1,119.73,Credit Card,East
+d8147911-39ca-465e-ab48-a42dc65c9cce,628275e5-9f1c-408e-8a95-38ada0f015e7,2025-02-19,Headphones,Electronics,2,155.29,Bank Transfer,East
+e83954fc-3dc8-4c03-8bd1-4e5131949aae,6f6f34c6-e1e1-4d6a-83a4-0b0668dfb059,2024-10-17,Fiction,Books,3,927.88,Cash,North
+9684b021-6a1d-4539-94c8-313c515418c9,c8971b42-d64c-405d-a7cf-965ba8ef0884,2024-08-25,T-Shirt,Clothing,2,64.4,Bank Transfer,West
+e3e88550-501c-44bc-9589-6bff8c8c50fe,df756292-89df-4c15-828c-ae85aa0f725e,2025-01-03,Vacuum Cleaner,Home,1,511.98,PayPal,East
+939b6ddc-4348-43de-8d8b-698eff69f8f6,2cfd1098-9ec4-4cdc-9d7a-3a4c636552bd,2024-04-11,Fiction,Books,5,90.62,PayPal,East
+84e45d34-6739-4694-b9b3-91cf8c4aa90d,eeecb709-e17f-4801-8b18-7ab8d3aeab02,2025-01-19,Headphones,Electronics,1,232.87,Cash,North
+c90ef50e-cc10-4189-9916-68c284925a0e,fcb3229f-d793-4a0c-aa76-ef2c6f6850a6,2025-01-09,Sofa,Home,3,456.15,PayPal,South
+9fbd11c0-d2b6-4a6b-b215-39d4e0646f82,c5eebc55-36ca-4582-8a4b-f47964586d8c,2024-10-20,Vacuum Cleaner,Home,4,868.76,Bank Transfer,West
+e4c82391-1d77-4581-b552-ad23c2b5d02a,17a2252b-d80c-4ea7-8e4f-b544ec490b43,2025-02-15,Smartphone,Electronics,5,54.99,PayPal,West
+3d274832-cb83-482a-b8c3-4ca9fa45ce50,deb6684a-3d88-491d-bcff-a99bc8037203,2024-12-01,Headphones,Electronics,5,537.1,Credit Card,West
+8d4e4583-4032-44f5-8eae-742c4bb079f3,9ecb8746-41ee-467d-9952-efc2db3b30a1,2024-07-23,Smartphone,Electronics,3,192.69,PayPal,South
+76c9a372-62c1-4992-8756-3397474e7955,d133624e-4c92-4a97-be5e-7575c8dba058,2024-11-14,Headphones,Electronics,5,599.06,Cash,East
+2283ecd5-d8fe-4a83-896b-7b82178e582c,b2212880-d5b1-4583-ab00-2cc9a9e6f67b,2024-11-14,Fiction,Books,1,730.88,Cash,South
+aca1c9a3-fba9-4988-b8b3-e37be76c4ea4,83e65244-b563-40f9-9395-7b936ca6b121,2024-04-23,Laptop,Electronics,3,953.92,Cash,West
+d2a384a1-f062-4c61-a93f-d087a88a499a,7ea4fd8d-f28d-468a-8a24-4157cbd1e70e,2025-01-26,Vacuum Cleaner,Home,4,776.28,Cash,East
+95a7dc06-43af-4eb5-a1bc-f4087ff426a5,61ecef3f-8d70-4755-bd1d-7db3fb3d0021,2024-11-27,Jeans,Clothing,3,512.29,Credit Card,South
+196b658b-9a42-44e4-bc66-1fb88ef3c0cb,90120dfb-c9af-4ea8-8ef8-a9b2a9d2c663,2025-03-05,Non-fiction,Books,5,989.83,Credit Card,South
+e21282bd-4d5a-4436-958b-3794bfbbf2a6,f32b9dcb-cdec-422e-96ad-d78dc9fe6487,2025-03-23,Headphones,Electronics,3,425.83,Cash,West
+996e0557-c897-49f1-a64e-50f170206f2a,e5b52590-7142-43f9-9d08-2c1df5c547a2,2025-03-21,Fiction,Books,1,631.96,PayPal,West
+0f0baf9f-1459-417c-8c4d-790c323b1e7b,7946eff9-60b7-4907-bc4f-a40738d18ba6,2024-10-16,Jacket,Clothing,5,202.48,Credit Card,South
+9a4b44d9-4ad3-4a83-8c19-d9dada5f8232,1678b1e9-9ae6-4a9c-9738-e29f21e0bebc,2025-01-03,Jeans,Clothing,3,96.72,Cash,East
+42cb73a8-1c4d-4fda-936f-bb64a85184fc,23aa1913-4a29-4c3a-a832-4d757d1531d9,2024-08-28,Blender,Home,2,33.55,PayPal,South
+f342d571-ac73-4972-8f7e-92091ac313ce,8bce5107-d458-4e93-a27d-2a0b1653bead,2024-11-20,Jacket,Clothing,4,415.56,Bank Transfer,East
+f74a97af-579d-4a41-8874-1cf0cf973526,8c53cd06-20fe-480f-a921-5e8fe97171a5,2024-06-04,Fiction,Books,2,663.41,PayPal,South
+12fe3de3-4e61-44cd-a231-baaa57a8085a,b63c044b-95a9-4e27-b772-66a86dddfb90,2025-03-09,Headphones,Electronics,1,875.74,Credit Card,North
+c2937871-4d89-4c5f-b997-1d3fff6e8c01,46800fc0-5afe-43ec-9b15-fae90ca31ea5,2024-08-13,Non-fiction,Books,2,833.17,PayPal,West
+23873d57-eda3-4079-a403-d766f21cc8c5,d22d6eae-5be0-42b0-ba4e-3867c770c448,2024-12-30,Blender,Home,4,652.28,Credit Card,East
+8d4c4ebf-6f51-4439-b943-89053fe9fe91,0140f503-e5b6-40fd-b145-cc62c2a000c0,2024-09-03,Non-fiction,Books,3,895.59,Cash,South
+543c61f4-766e-44bc-88d1-1b622ea7b2fb,08900929-7866-4258-8e02-17adc5c661f9,2024-07-21,Non-fiction,Books,3,474.05,PayPal,North
+d85d8473-790f-4a0c-ad7d-ea518027b119,3cd0fa6e-d651-4aaa-9eb5-bf13ef9d6ae4,2024-12-30,Non-fiction,Books,2,435.63,Cash,North
+dee5a7e4-8920-4b2f-9b01-65cf810e5318,f2b508dd-6379-4d41-b18a-f3e95e1fed64,2025-03-10,Blender,Home,5,615.04,Cash,South
+1721972b-8e8a-46c0-8eb9-44c6d694dccc,14f373e3-1075-4e80-a8db-9463712920b9,2024-07-26,Jacket,Clothing,2,341.91,Bank Transfer,East
+d950e576-aa25-49c8-98aa-fa28fe6d917a,db13f7e8-4551-4181-b788-4c632293abcb,2024-11-12,Vacuum Cleaner,Home,1,922.43,Cash,West
+872a9a7b-588c-4f88-9c41-c0bd4d70605a,64800aa2-3a58-4bfc-9f86-150cff90977f,2024-11-10,Vacuum Cleaner,Home,1,447.87,Cash,South
+a2a34a59-7703-45aa-a2b6-aaeddf56a0f0,47325bfd-8932-41a2-804e-8e316277dfa3,2024-11-07,T-Shirt,Clothing,1,830.72,PayPal,North
+a90c004d-f09e-4bae-b30a-5c849545271d,34482e7e-2d28-4c36-b939-a95489a33e93,2024-11-05,Vacuum Cleaner,Home,4,522.31,Cash,North
+d9aa3b37-a1f5-4998-b42a-076d9c55fac1,0fc805fb-ca44-4203-aca3-0096526b7755,2024-09-08,Jacket,Clothing,3,613.12,Bank Transfer,East
+1d83c02b-70e5-4431-b62c-aad9bc214a41,bb495719-ff3a-4a67-aba8-626cb8fe442e,2024-08-30,Sofa,Home,5,954.01,Credit Card,South
+a6cf6f34-df8e-4681-9a4a-8528a9af1e03,145c867b-0c4a-443a-be34-96abd7e5b056,2024-04-29,Fiction,Books,2,357.0,Cash,East
+b42522cf-df10-4b89-bc14-e24ec4ce844a,fde9f545-98f4-4178-8b57-9145c9a1989c,2025-03-03,Smartphone,Electronics,1,138.4,Bank Transfer,South
+b163cc80-a10b-4cbc-a38b-28f2a9640feb,c7272b1a-26a4-4b8a-826f-3bed49b4c8a3,2025-01-30,Non-fiction,Books,3,277.15,PayPal,South
+61075bc2-f2a6-4fbe-a9f3-83d7aeab7611,b833b9db-dac1-4d74-a387-c8235c85087e,2024-11-26,Smartphone,Electronics,5,850.02,Cash,North
+4d832d0b-ebe8-4b9d-bddf-88f30b448e0f,8cf3b7da-e819-4bf4-886c-4b4269795c45,2025-02-07,Jacket,Clothing,5,176.93,PayPal,North
+f6fc275b-45dd-4f2a-920d-6a7730cc4786,3a1862fd-31ec-4059-903b-1cb2addf7604,2024-09-18,Jeans,Clothing,5,866.26,Cash,West
+e47dba46-7b78-4631-abbb-cf11d261a031,900b47fb-9178-470b-8d6e-0a86b9d8a624,2024-12-16,Non-fiction,Books,2,304.36,Credit Card,South
+f58667fb-eb8e-49fd-98ef-7ad532695989,feab216b-b896-4d02-bd5e-e8ef71e4d8e3,2024-12-15,Fiction,Books,5,615.58,Cash,West
+c66d0a07-d539-489c-b88e-e9a3cfef29be,b013084e-b853-429e-943a-d66fb05bae7a,2024-11-20,Non-fiction,Books,4,682.97,Cash,East
+62fb3b82-32eb-4278-8ac6-85fa45f75cfe,d7c0c245-c011-4486-8e47-eb6e627e4ba1,2024-04-17,Headphones,Electronics,4,887.91,Cash,East
+e5c34f83-ebb5-4340-817b-a74e3cd97fdc,0e1aa0e2-af32-4438-80e2-689013fad248,2025-02-16,Non-fiction,Books,5,113.52,PayPal,North
+38f53c75-8842-421d-b779-2d07470f2290,f31cc621-010b-4e46-b260-3b33231dcee4,2024-06-01,Blender,Home,2,251.35,PayPal,North
+a93f9d66-e408-44d2-8df8-86613ae08062,e3da0c95-0959-49e1-9a4a-55575647c35f,2024-08-25,Sofa,Home,5,536.86,Bank Transfer,North
+27f02a8d-b8e9-4946-86b5-f0ed7c35ffd6,a4cc9981-2c8b-415d-aa83-c139108f8126,2024-09-10,Fiction,Books,2,565.14,Bank Transfer,West
+4bd7bf94-4933-406e-9fe1-6390aff07559,5a138b64-55de-4604-91b7-a1973f019074,2024-06-13,T-Shirt,Clothing,1,40.04,Bank Transfer,South
+c4297ddd-d500-4457-941a-d2be02353883,f09ccfdb-d82b-41aa-a4aa-de09f14b79ad,2024-06-01,Jacket,Clothing,4,515.85,PayPal,South
+1d3a7007-a04b-4c0d-9b0c-fe9b6ed1ad07,4bd2f24e-ee01-411f-a168-4369986d56d3,2024-07-27,Laptop,Electronics,1,792.26,Bank Transfer,South
+198ed25a-75ee-4566-9629-fa3338bbb401,04612752-9450-4844-a983-0b95f6fa4fd1,2024-07-12,Sofa,Home,3,330.07,PayPal,West
+dab5c368-160d-45af-aa2a-8311e72c2256,f9aa0661-ce9f-444d-b372-e8761f536f4e,2024-07-24,Blender,Home,5,688.13,Cash,East
+289b9631-771d-4d70-a247-c4f24b87740b,7f108aef-5b5c-4dd4-8c34-6ece022253e7,2024-06-10,Comics,Books,2,935.21,PayPal,South
+78bdfebb-8a7b-4ad9-9ac6-31028a8d2788,2ae6f2f4-dab6-4c39-bb3c-f0c01804f21b,2024-08-23,Sofa,Home,3,983.15,Credit Card,West
+5f6c3f29-a36c-4bff-b43a-d847f100383e,d87f3785-ae2a-417a-a1ab-c1fa46ef7449,2024-05-04,Vacuum Cleaner,Home,5,964.08,Bank Transfer,North
+edb45727-46d3-41e4-a351-66fe40598da1,31ef9fbc-082a-4ec1-a349-c848d87df1fc,2024-04-09,Comics,Books,1,981.58,Bank Transfer,East
+04e47077-7507-43bf-bf2b-81490bd9301c,961b3253-1cce-4c03-b1c3-9e082972d062,2024-07-28,Jacket,Clothing,3,579.46,Cash,North
+8ed1fbd9-1a00-4ea8-9d09-0c98c6e453d5,ce2af120-b39e-4dcc-908f-bc348f6b84db,2025-02-06,Jeans,Clothing,1,338.79,Cash,East
+308a44af-8902-4a1f-b53e-cf00f056e836,f70696e3-44af-4946-b9ad-90d99b38a5a2,2024-05-24,T-Shirt,Clothing,2,178.29,PayPal,East
+bb192432-3189-4e4a-bf7c-01312f163db8,c2f9bbd7-0e2f-406f-b1ec-fdbca1f73c12,2024-12-31,Smartphone,Electronics,5,970.44,Cash,West
+d0feec40-230b-4c65-9b67-a85e5ced51ee,082e2eb8-8a57-4b46-809b-807e3a201a8d,2024-07-23,Non-fiction,Books,5,412.53,Credit Card,South
+91922263-3a0c-4c65-af6e-ed7eead163bf,41179fa9-a39b-4189-bbc5-f9d46d7a5be5,2024-09-08,Comics,Books,1,391.39,Bank Transfer,East
+f0dedc12-131e-4890-9474-8d8574c2c4ba,f91abf08-e7a5-44b3-8cb7-ec925c2d7fba,2024-10-16,Headphones,Electronics,1,867.46,PayPal,West
+92938326-d530-4cc7-8494-2f6c1d59f683,68664374-e207-4e1c-bcbc-c036d58f9424,2025-02-10,Non-fiction,Books,1,878.89,PayPal,East
+a0bfec94-bc41-4152-9f64-9a6b2277d619,a2cb5eb3-4bab-4ead-8fe4-7181ce960f4c,2024-08-10,Sofa,Home,4,63.8,PayPal,North
+05397c53-d9ad-4e35-90c1-d1a017e59c5d,3afab220-5d24-4aa0-ac5c-3aa8a3bbf21b,2024-05-31,Laptop,Electronics,1,436.91,PayPal,South
+84fdf7d0-1a4e-4026-9864-9b042be2596b,9c6927cd-6237-4b40-b041-83dff29c203b,2024-09-30,Jacket,Clothing,2,851.57,Cash,South
+e308c099-64c6-4042-9b7c-124e65d03890,2dca0108-ec7f-4beb-aa55-8db5159cec36,2025-01-30,Fiction,Books,5,411.97,Bank Transfer,South
+55dea797-6753-41c6-9a08-e39b4378dc06,9596c459-037f-4aad-a627-b5991f0971ea,2024-06-11,Blender,Home,4,284.22,Bank Transfer,East
+ec1841a8-4906-4eba-9fbb-f5caf4e9c466,eff32ad0-010f-4e1b-ac32-be5eacaa5299,2024-12-05,Headphones,Electronics,1,913.49,Cash,South
+704444cc-dc38-490f-945b-e8b71a514fe1,6d530496-3380-4d13-8b46-e274a16fe9c5,2024-09-01,Vacuum Cleaner,Home,4,294.51,PayPal,West
+6b3371a5-908b-45a2-abfd-d572472d968e,c898e76f-4080-4bdc-b556-94d0c393baf6,2024-09-28,Comics,Books,3,887.79,Bank Transfer,West
+bfe2bfcb-dd4e-4693-bbd9-d6f6defe6c8b,0eb6a324-2c37-450e-9f2d-c9e52438961b,2024-05-24,Sofa,Home,5,331.8,Credit Card,South
+53c7a274-db5e-4248-8cd2-eeb83f06822a,af0b8871-ac5d-4817-9d9d-533e025d9ede,2024-09-23,Fiction,Books,1,628.63,PayPal,East
+d0c3877b-3e90-4405-880f-ed33114ce4dc,4c093332-4f71-452f-a890-9c6d91c48373,2025-01-30,Non-fiction,Books,4,464.26,PayPal,East
+aad42e34-f4fd-40dc-96c8-f0225b1489b2,dccabb16-cc72-4e6e-93ca-ae868dfaa441,2024-08-14,Smartphone,Electronics,2,26.95,Cash,North
+5eb20c64-400c-4eae-9151-a7fcfa5b8b1c,6e5165e0-4123-4157-ab62-7c76fafaef93,2024-12-27,Smartphone,Electronics,5,414.78,PayPal,East
+2599b203-727b-4c64-b947-23b74c0b86d9,7a6e0325-63a4-4589-a9e5-96ed3111c9bb,2025-01-04,Blender,Home,3,679.36,Credit Card,West
+cf555a67-90d7-4a0f-82b0-3a1225006817,e41289e5-12f7-4a8d-9f5f-91cae27829d0,2024-05-15,Vacuum Cleaner,Home,4,670.77,Bank Transfer,South
+32506555-0989-47b1-8b02-52fe698741f9,7beb931b-9047-4e3b-8afb-04c59f67386f,2024-07-02,Smartphone,Electronics,2,827.81,Cash,North
+f0e30474-2742-4f02-a1cf-56b827624d1c,6c1fe32d-53b8-477a-a530-65a040e7e432,2024-11-06,Vacuum Cleaner,Home,2,947.53,Cash,South
+50cb95ef-0954-4bd7-809c-eff8e1639c4b,d2535250-e9c7-4e63-9871-c1edb2b9c37a,2024-05-17,T-Shirt,Clothing,3,140.93,Bank Transfer,West
+2402b102-3494-4ca4-95a0-ab7d8c20d18e,0b925474-8ec5-48f6-87ed-cf9bc970eac9,2025-02-19,Sofa,Home,4,938.91,Credit Card,North
+3c0acf05-7336-42db-b60c-2ca2dfa5a436,2f3fa6b6-3a16-43dc-b986-a00701831b19,2024-07-13,Headphones,Electronics,3,745.46,Cash,North
+1053e05b-39f7-4262-9499-e0b3ac96e283,5d49dca8-d040-48a7-a458-74199cf64f0e,2024-04-20,Blender,Home,3,171.59,Credit Card,West
+4c6d1729-7d50-4bcf-8663-cde4ddc5503c,adb6b898-cf6e-49d8-bc8f-b3e05921d9b7,2024-07-23,Fiction,Books,3,591.51,Credit Card,West
+e46ebb2b-acea-4ea1-b947-9290c6442849,55d457a8-9d30-430d-94bd-17aa2e0f9d2f,2024-05-23,Blender,Home,3,448.8,Bank Transfer,East
+98f27718-2347-4c6c-b086-13910c069adb,6b295b4c-55f2-4e44-8dba-1a1a45f75689,2025-02-09,Headphones,Electronics,4,630.81,Credit Card,North
+011ea976-9dbc-45dc-a3a1-8093b55efc93,ff6c442b-80cd-45ab-b8a2-ea8d2a4c69f7,2024-12-01,Non-fiction,Books,3,472.93,Cash,West
+f067f804-5109-433f-b61e-b76091ec8f98,23ddde11-bf4a-41f6-9e43-e9006c0c99d1,2025-03-01,Vacuum Cleaner,Home,2,536.55,Cash,East
+af37cde9-0f7c-4985-8344-8b6782f14e70,a5b8d4f2-ecf0-497e-98a6-788ed14eb623,2024-12-25,T-Shirt,Clothing,2,780.73,Credit Card,South
+10a8d20d-0380-4a8c-bc3c-a226e2f0f190,6d46d2ad-af15-4568-8cbe-e16b12501661,2024-08-21,Vacuum Cleaner,Home,3,997.11,PayPal,South
+7b1e4db5-d0c9-4b5e-af37-3718cbb235b5,c875b4ef-15fe-4d26-b467-3dfff5cfb0e4,2024-10-21,Sofa,Home,4,717.77,Credit Card,West
+63d353cb-5b42-43ca-9f98-f7840799fb90,d94a4f4a-1808-4499-a7a4-5e9dc84ede24,2024-12-24,Non-fiction,Books,4,481.38,PayPal,West
+4c909bc6-9e44-4b92-a8fc-05750532bd63,3393113c-728d-4652-966c-36f184cc02c6,2024-11-11,Laptop,Electronics,3,956.3,Bank Transfer,South
+6309673c-8b5d-4b26-8783-0df0e5cc0a37,1267d46b-7bcb-4c76-aa5d-81d47e6a7e0a,2025-03-21,Headphones,Electronics,4,629.43,PayPal,East
+d6cf3e5a-dca4-4b97-9db2-0cb951a09784,bee657ba-ba85-4a10-af6e-1bc88fb1919d,2024-11-23,Jeans,Clothing,2,329.4,PayPal,East
+2c808b25-865f-4593-bb55-22047d659d31,54ac9770-9a1c-4e93-a582-4b46e8f34255,2024-07-23,Blender,Home,1,234.69,Cash,East
+4702e8d4-7007-43c8-9d37-47f9ecea8f2d,c33fd613-b276-49ef-ab82-47e1db927593,2024-12-10,Laptop,Electronics,3,350.96,Credit Card,East
+2d3b3f08-9a30-4ad9-ad5d-25a91583fe6b,84b34fbf-60a3-409a-bd22-04febe4dfe2f,2024-12-06,Fiction,Books,1,744.0,Cash,North
+c472cdc2-d0a6-4ca4-928a-a2dc4848a99e,894db9da-0196-4e1a-8336-99fd79bc9599,2024-09-09,Smartphone,Electronics,5,356.48,Credit Card,East
+04050f0a-2e62-4134-9cef-d2bf8d1b6ac8,7806e241-33a9-4ba5-86bc-bb2476efce02,2024-12-21,Blender,Home,2,937.85,Cash,North
+e87f4120-0557-4ff1-8746-6bfd1434b0e7,6cb5206f-3cf3-4b9b-a17d-4934ec130026,2024-07-11,Jacket,Clothing,2,530.55,Bank Transfer,South
+ef62ffa2-6510-4f04-a4d9-c5eb8c9b6d17,19d4c8cd-40f0-4d0d-995b-9ddddb330560,2024-07-21,Sofa,Home,3,165.48,Bank Transfer,West
+a1a08992-a218-41b2-8437-b55f10682534,36dfb702-01d6-4326-8f19-795df1fadf50,2024-11-03,Laptop,Electronics,2,642.03,Bank Transfer,North
+347738f9-645f-45aa-b0bc-83e5176bd01c,1c7d5993-cd2c-423a-85e4-c3beb603a820,2024-08-26,Smartphone,Electronics,3,687.67,Cash,East
+c76435a1-f8a4-4066-a68f-4189fefe8adf,380a005c-c42b-48cd-92d9-00b41e6eb17f,2024-04-13,Jeans,Clothing,3,10.08,Bank Transfer,East
+07c4dff5-5ea0-46f4-b422-dbb95a7279b2,ab917bc8-9935-4780-b454-dcad08a7d6b4,2025-03-20,Headphones,Electronics,2,853.87,Cash,North
+b12a43d9-1b12-476d-b2b4-9212b80e8ace,78a2212e-5047-4721-a453-df73963f7655,2024-09-18,Blender,Home,3,679.58,PayPal,West
+15db805f-7070-478f-9749-3f00ebb4d6b5,e30fffb1-5cba-45ff-96bc-33207c383868,2024-05-14,Jacket,Clothing,3,625.08,Cash,North
+bb4dd2a0-6c4f-4398-8243-c974b4f5dcc6,b3ff043f-fbb7-4b19-a916-61b8e54e3735,2024-12-31,Vacuum Cleaner,Home,2,818.91,Cash,West
+20e0e91c-5892-45ab-839f-e42acd28865c,f13e7c40-5cd0-451c-a918-21eb7fd7eea3,2024-06-16,Sofa,Home,4,682.74,Cash,East
+6e1e2a41-37e1-40f6-bcb6-a7147a773cfb,8dcb63e9-f748-4b35-91ed-5dddc9025080,2024-07-16,T-Shirt,Clothing,5,896.93,Bank Transfer,North
+518133f7-6697-4bdf-9773-b1335dd0b197,1373b274-8ced-4f84-a97c-b9637195089a,2024-08-15,Jeans,Clothing,4,706.88,Credit Card,West
+cf3193ef-5784-49e7-bc02-3d9603f460fd,1e783992-b1bf-4a29-830c-0a4a31f1bddc,2024-06-03,T-Shirt,Clothing,2,699.74,Credit Card,East
+ca7cc436-edbd-4db4-a83c-bc90d22df9b6,00a7bbcc-13c7-4610-ae3b-efdec73a31d7,2024-10-27,Sofa,Home,2,440.47,Cash,North
+843b41d9-de93-40b1-98a4-f8344e6f786d,413c11b1-720b-40ba-bc70-95963f1f2173,2024-11-07,Comics,Books,5,601.83,PayPal,East
+1dc285b5-38db-47c3-bd1d-d58ab27501b2,57950cd8-71d9-494a-b3d4-1ec34e1b0ee9,2024-07-20,Sofa,Home,5,276.44,Cash,North
+5bf6011f-c2b2-4870-96fd-59cd1f8f75f1,0a95c7ba-8195-442b-b10a-afe145c7e93b,2024-04-30,Comics,Books,1,32.97,PayPal,East
+2577d753-7752-437f-ae98-d156b98692b9,28acfee5-adc1-44c5-ac42-85bd80873ec6,2024-07-21,Laptop,Electronics,5,578.26,Bank Transfer,East
+d30e77f8-a45d-46da-a7fa-673b0e1c7547,2cbc3e46-749d-4c1b-b7e1-d80710e857fc,2024-09-29,Vacuum Cleaner,Home,3,36.85,Bank Transfer,West
+36a8f15f-f9c7-42c7-af4d-ab6e53e7122b,d8b76684-c89d-4cc6-b4e7-1236bd7377e3,2024-12-02,T-Shirt,Clothing,3,660.38,Cash,North
+44cf0919-218b-4c2c-b7a8-4ffce91bc6a3,9e9c1827-0b36-4574-944f-588a7f5434b1,2024-05-10,Blender,Home,4,404.37,Credit Card,North
+cbc92fab-28b4-4c9c-8a6c-fae77c796570,125d8b2a-e98c-4084-aee9-d5a00997712a,2024-07-11,Jeans,Clothing,4,610.11,Credit Card,East
+c4f2d606-e29a-418a-ae48-a42bcbb5c0de,8144b55f-2bef-4e97-b86b-6c607fb685ae,2024-05-23,Headphones,Electronics,1,733.19,Cash,West
+26dfbcf9-b1d2-4e00-a04f-e9066b58acdd,d7da5fe0-a8c0-48e4-b764-a2cb5cc2537f,2024-06-19,Jeans,Clothing,4,157.69,Credit Card,East
+78575526-9847-4486-b9f2-c9cc125738da,4dff00b9-2a40-473f-a340-0231ff7fe785,2024-06-26,Blender,Home,2,510.51,Credit Card,North
+e419294f-4789-4285-be8b-8c70a5cea886,5a3b423f-8334-48b8-8a46-cd47a98bf493,2025-02-25,T-Shirt,Clothing,1,761.53,Credit Card,West
+dd22615f-fc52-4704-a93a-6ff966627d3f,4c562977-9408-48d9-91e0-8b55be8afc94,2024-08-05,Jacket,Clothing,5,273.95,PayPal,West
+de37048a-0241-4d46-838e-67dcdb300628,7ef0a15a-5b6a-4563-a13c-e30aeb779f96,2025-03-19,Fiction,Books,1,381.23,PayPal,North
+0b3d3a18-eabc-4599-bf89-ca8b823b68ce,e32aa132-2a49-4d12-bef0-e7b5dafc5a8e,2024-12-18,Vacuum Cleaner,Home,3,918.07,Cash,South
+e055f995-9a7f-4db1-a61b-5a98d34905aa,303a0051-3e24-4934-8dd9-34a641bd054a,2024-08-15,Comics,Books,4,501.27,Cash,North
+ab887ec0-727a-4c94-9fd8-2d664783837b,7b286f03-5aea-4886-a012-42c2aa403af6,2024-12-28,Non-fiction,Books,3,75.14,Credit Card,South
+4fd2db6e-d504-4531-a46b-68c63aca4370,6292d1eb-ccc6-42ff-8539-22e52f2dff2e,2024-11-23,Jacket,Clothing,1,655.22,Bank Transfer,North
+d105bda1-64ec-4fef-bcac-64eef19c03c6,b63a73f9-609d-41d2-8728-2b5bac30d83f,2024-08-10,Laptop,Electronics,4,78.49,PayPal,West
+d98078e4-2ec7-4764-9824-48a5683ac8a4,de5ea1d7-69fa-41ff-ab6e-16dd02c75e3c,2024-06-11,Non-fiction,Books,2,298.08,PayPal,West
+f3fcd414-1f42-438e-8c07-1e57fd77eb78,dc276685-5189-4fe8-9ff5-62f0216a92f8,2025-01-29,Sofa,Home,2,11.38,Bank Transfer,South
+58681a42-7a88-4215-bf94-b09d6aeb8bc8,4011c76b-6a2c-4c7e-8dae-c36394c2d173,2024-08-26,Comics,Books,5,346.35,Credit Card,East
+b17f4179-6966-4911-8331-dcd3298ea0a5,f041c840-a465-40f1-995a-dc79f3cc837c,2024-05-31,Jacket,Clothing,1,431.18,Credit Card,East
+ee661ff1-28f5-4036-b828-26353aaf9866,220ec643-4022-438d-9952-de94f134716f,2024-07-30,Sofa,Home,3,877.86,Cash,West
+1c480a02-ad8f-4267-b1ea-425fbe14bc98,cc59c9b8-99a0-4d6d-ad19-5da7e5d3adbe,2024-07-06,Smartphone,Electronics,5,165.85,Bank Transfer,South
+487c0988-dbe8-4629-8a7a-4a4a52d6d976,1443bdd1-9ac9-458a-907e-b2a862a6495f,2024-08-08,Blender,Home,2,940.61,Credit Card,East
+b4c76c2e-348b-42fe-bf72-72e0d7409438,db97afef-4368-493e-93ff-a7121fbca117,2024-08-14,T-Shirt,Clothing,1,955.15,Bank Transfer,East
+1234bace-73fe-4705-91f1-9e501912ec1b,e02047dd-9aa1-4586-9af5-743bb6ffbc67,2024-07-27,Jeans,Clothing,3,373.78,Cash,North
+46ab71cd-9ab9-47b2-a885-beb31adabc7c,50cc8bf2-eb36-455c-a471-377dfcbf0bc7,2024-11-13,T-Shirt,Clothing,5,524.94,Bank Transfer,North
+99d2abd8-2731-48cd-8bbe-05242baa66f8,87123e24-0c6d-428f-bc52-e4126a20515a,2024-05-29,Jeans,Clothing,1,362.07,PayPal,North
+4597c1ef-94f7-4fde-9ea8-f8e5c93fbcf1,bdb2a5a1-851a-4a72-b5ba-2b50aeb58480,2024-08-25,Laptop,Electronics,5,367.28,Cash,East
+a6d9aee6-a646-418b-aa6e-2dcd40baa476,bd794dba-7a04-4728-916a-967cc12aa41f,2025-03-31,Smartphone,Electronics,3,103.66,Credit Card,East
+8faba338-1fb6-4404-bf7d-24fb58cd61b2,d5aac9f0-9d30-4718-a491-ec6665f9d406,2024-08-14,Jeans,Clothing,4,296.12,PayPal,East
+97f02c19-b1f0-448c-912e-0a71d306d984,7e33ca65-bb88-4386-abed-bfe715fb69f4,2024-12-10,Sofa,Home,1,736.02,Cash,West
+e2dffc50-cc5a-4300-adc7-e9a44be3d602,b4aecef5-9b92-44b0-ba8b-d3fa2a04c344,2025-02-01,Vacuum Cleaner,Home,2,900.35,Bank Transfer,East
+cdfdab85-e7b5-417b-be5c-d10d3f93c49b,bf8ca8af-bbb3-4481-81c1-bf08ace06f4d,2025-03-06,Jacket,Clothing,5,862.94,PayPal,East
+2e7e1043-f7a8-4471-9426-a437e3712ad3,97f3b2aa-a09f-4ed4-ac1f-735b9d0bf4e0,2025-04-03,Headphones,Electronics,2,485.42,Cash,North
+70e79213-562f-41af-9065-5a35849ac78f,03b3615e-8d6b-4545-bc66-730af4692cca,2025-01-08,Sofa,Home,5,123.21,Cash,North
+9f2e585e-2f17-42a9-944c-c2a4452a2246,21fc2ec8-8a74-4260-bb1d-2ba29bfc2e11,2024-05-15,Non-fiction,Books,5,979.1,PayPal,South
+df9633d5-a0fc-466e-839e-22a75d4cd711,315d2174-ddc8-4aa5-980d-8dd225295d16,2024-07-03,Sofa,Home,1,115.68,Cash,North
+02b7b325-731d-43e3-be4c-7d114a84b72a,63880124-cd82-4520-aef7-258fd837d286,2024-05-25,Blender,Home,5,137.71,PayPal,South
+037de464-3982-4a3c-994b-cfdb9bdc922a,a5c4e4fa-5341-4fec-82f4-3deac503620b,2024-10-21,Blender,Home,3,91.93,Credit Card,South
+5fa3456b-3e7d-4051-b2f2-5f7f7b48f422,4a06d2e2-3453-4bad-84e1-b6f2cefd8d18,2024-06-11,Headphones,Electronics,2,995.33,Credit Card,West
+58373b17-fe33-48a1-87ab-ed91debb8849,fdb9204f-946b-421d-a12f-1d56cb6c7248,2024-04-28,Headphones,Electronics,4,92.74,Credit Card,East
+1ed9583c-27ca-4f7c-91a0-37b1f6ef7c24,f2598174-5bb4-484e-b949-b5226c33993f,2024-10-31,Jacket,Clothing,4,663.4,Bank Transfer,East
+62acc9d0-bdcd-4bd6-a757-4efb2e998364,e235dbb6-73d9-4c09-b3f6-c1be1e9a10b4,2025-01-22,Jacket,Clothing,2,984.79,PayPal,South
+2fe0e2c2-5353-4d16-beb4-004decc20a16,89104394-83cc-472c-847b-ed909e535340,2024-12-15,Fiction,Books,5,21.61,Bank Transfer,North
+c2dea0d9-2667-4723-8330-9a8c80cec5bc,ef82968e-cabc-40cb-84ba-390b8c11eaa0,2024-07-20,Jacket,Clothing,1,550.8,Cash,South
+5344dcac-6f6c-4d3e-a017-b98261a22e47,d6b3788f-9c6a-4787-b8ea-73373a0a5070,2024-10-11,Jacket,Clothing,4,946.98,Cash,North
+33a484d4-9877-41c9-b5ee-f4b764cb0a46,fa95ca6c-3bd6-4642-9514-6b7346a1e124,2024-09-18,Jeans,Clothing,1,101.88,Bank Transfer,South
+2bf48e6a-12ce-41e3-b528-0d4ba0b76688,c3dfd653-ca26-4cb4-8b65-19b4035590a2,2024-06-25,Laptop,Electronics,5,601.92,Bank Transfer,West
+f72a8386-150b-4a6a-bf6d-91eb30ea5838,5eb9f3f5-ef97-4058-82d3-41caab0e2638,2025-02-28,Sofa,Home,2,872.13,Credit Card,North
+e84628e4-587c-4c1b-bbb1-3f680dc311d9,f25538ac-c457-4942-a8c2-d8c3c4cedc09,2024-05-11,Non-fiction,Books,2,985.45,Credit Card,North
+f3819a8d-8b78-4dc5-8a07-887dec41da63,1b879342-9cd9-4699-a826-673aff1d235f,2025-03-08,T-Shirt,Clothing,1,740.71,Bank Transfer,North
+0f847304-0329-4414-a5b4-0eaed7940de1,d26afb8a-2af5-4653-a38d-a4cbf31766ad,2024-06-24,Laptop,Electronics,1,401.17,Bank Transfer,West
+78a7bfbc-9bc1-483b-836e-a96e607502eb,9dc1ca60-bb76-4aa8-9a47-a5157a784c15,2024-06-07,Jacket,Clothing,2,647.42,PayPal,North
+d58fbda4-a0d5-4168-b146-5945fd681e63,9695592a-8ec8-4bb9-bc43-2b39c13df640,2025-01-13,Non-fiction,Books,2,734.06,Credit Card,West
+04426f5d-09a8-412f-8431-a12e66628248,6d95e142-5285-42ba-9535-95488c5e70e4,2024-09-07,Non-fiction,Books,3,365.91,Cash,North
+6213cf0f-d432-45a3-87ef-31d46a2805e2,5feffb3b-63bb-439d-970c-4a51147206e3,2025-01-31,Smartphone,Electronics,5,794.31,PayPal,East
+5c9ebd98-ae58-48a4-aef3-1037fb1a205a,7d61ac17-9d25-401c-9b2b-7639a2074f71,2025-04-02,Fiction,Books,2,357.11,Cash,West
+747acf58-bb55-4aa4-8468-fc5cf2fb82ce,0f4fcf8d-79e6-4c71-ad24-5225031eb9f7,2024-11-11,Jacket,Clothing,1,14.68,PayPal,South
+06ee5276-7c1d-452c-9522-ffa88585aeb9,7064e320-c6c1-4886-8773-914a8c80126a,2024-12-04,Jeans,Clothing,5,354.62,Bank Transfer,South
+215264ff-dac7-4a2b-9200-d4e1929d8af8,2adf37d0-aa4e-4998-ba9c-1fb4e8fe0b33,2024-12-17,Fiction,Books,4,375.34,Credit Card,East
+b1e74e39-ab4e-476c-961b-effde446b426,b3ec3695-5259-4489-bef4-1101cbf65922,2024-12-11,Non-fiction,Books,3,77.72,Credit Card,East
+1da6acf6-39c5-4651-9854-fdad664c4723,098a1a5a-ab2c-4755-8f57-c36b733bfec2,2025-02-07,Comics,Books,2,455.02,Cash,South
+e4f2bf97-76ed-441a-876b-feac88b06f53,02335563-f1b1-4923-9bd5-0a877b1771fb,2025-03-13,Fiction,Books,5,534.32,Bank Transfer,North
+bbec40cd-8d79-4188-b4b5-eca5d36f3be3,872d07a3-452a-4155-907c-433b2f862e6a,2024-05-28,Non-fiction,Books,5,370.98,Cash,East
+421ae395-6837-4d65-80b0-64611daf2362,b36e478b-59ca-46d3-92ad-cc8b5e4ec810,2025-04-04,Jeans,Clothing,2,137.11,Cash,East
+5f3d2ab1-1b0a-4f78-981a-b2f62e5d8d7b,016182f7-4123-4120-a0c3-19535f9a3ee3,2025-01-16,Vacuum Cleaner,Home,2,376.76,PayPal,North
+d4989ca5-f007-4835-b825-9a82cac47fde,ff556aa9-0c4f-4916-81dd-28a88537af4f,2024-04-12,Vacuum Cleaner,Home,1,117.57,Bank Transfer,North
+2a81aaf9-9266-4930-a1eb-8936b15ba0db,6fb31211-1247-425d-89ea-91d62ff5568a,2024-06-07,Jacket,Clothing,2,383.68,PayPal,West
+dfadc4ae-2cc9-4965-952b-ceeca11579c7,f689e52b-97eb-4328-b373-5641b71edd14,2024-11-04,Headphones,Electronics,1,114.93,Bank Transfer,North
+6107c1fb-1186-4f69-94b5-3e5f7d5a37fe,071704fb-2699-4eac-bb31-3c38f6c55d1d,2024-09-28,T-Shirt,Clothing,2,504.53,Credit Card,South
+9002cde4-8076-4e26-a8f0-95ca89cca13f,39f6da79-74db-4479-9937-5bae715688c6,2024-10-16,Headphones,Electronics,5,148.64,Credit Card,East
+7da0573b-4417-4402-b7ac-732375875815,c8fa1fef-ee4a-4b0a-bd57-cd11c748ad08,2024-06-23,Sofa,Home,3,653.46,Credit Card,South
+78814293-5512-4f74-be8d-294ab114fc07,21ce5475-7029-43bd-9ee3-acb32f570409,2024-09-28,Sofa,Home,3,88.47,Bank Transfer,East
+b7f8bee0-d18f-4fc4-a681-af6d8fd6b46f,42520434-412f-462e-b900-69f6040105a5,2024-04-29,Blender,Home,3,401.31,Credit Card,East
+8aa3f978-3c82-4d56-8855-b3071e90e36f,609e349a-3707-4e84-8d38-494f2d55ecb0,2025-01-20,Jeans,Clothing,3,191.9,Bank Transfer,West
+5716e157-5eb2-4fac-8a6c-5c30de81485c,8a146f3d-7d58-47a4-925d-81f368d076c8,2024-06-10,T-Shirt,Clothing,5,846.42,Bank Transfer,East
+43ce0b20-60ed-49fd-9a46-87c7ffe0d0f5,6c835f6b-1a6c-4be4-bf06-5a14336800a9,2025-03-28,Jacket,Clothing,5,729.78,Bank Transfer,North
+c6e5e521-9f57-4819-8de4-91d6119f0384,f7e62865-63cd-4302-97d4-4b42380d66b9,2024-09-10,Sofa,Home,2,622.08,Cash,North
+758d93f5-5acf-4f82-b7c2-f2ff4e9e106d,8aaa1332-81e8-4111-bfd3-64ac4f6d1e9d,2025-01-17,Laptop,Electronics,1,69.37,PayPal,North
+3a6c83b3-2eb2-465e-b125-ca2511a38cdc,158926dd-74f8-4618-aeff-511088e39318,2024-12-10,Non-fiction,Books,2,827.97,PayPal,South
+ee89576f-0986-4a5b-9ec3-2b47898db92d,5e0778ef-274e-49ec-83de-567149d59dcb,2025-01-19,Headphones,Electronics,3,27.58,Bank Transfer,North
+abd191bf-1df6-4df6-a051-b79879d8e343,cbe161e4-3328-4d24-b44e-68441308a16b,2024-10-01,Blender,Home,1,460.13,PayPal,South
+8a1a320c-86be-4bde-9f1a-c707a590d738,defe14cd-3cfc-4aec-838c-365ffcc939d2,2024-12-14,Jacket,Clothing,4,390.15,PayPal,North
+768cbb7b-841d-4331-9721-7b5b7c8cb71c,05c1b081-9d74-4702-9269-8465b7a5a246,2024-04-25,Non-fiction,Books,3,40.0,Bank Transfer,East
+e34bf6d9-946f-4aaf-a2a1-4022fe99eb9d,c46214f8-a2d3-45f9-b3b9-8055885f327d,2024-12-25,Vacuum Cleaner,Home,5,165.57,Bank Transfer,West
+5dc74620-ef77-48bc-ae14-e9bdc4d4c610,b1931758-ca8a-46fe-a337-f48bc2a51b54,2024-08-22,Smartphone,Electronics,5,787.68,PayPal,North
+f4af0c75-3a1f-4e55-9830-3e8552572cc6,13c97909-d8c8-47f8-b05e-0710d169e0cf,2024-08-27,Smartphone,Electronics,2,579.9,Cash,North
+c9e75bdd-42c3-4b3a-beab-eef7f5bdbf4f,f9ee2c33-cd70-4466-ac7b-f75486d72a38,2024-08-16,Comics,Books,4,344.33,Cash,South
+8f420197-917b-4f85-aa3c-8a67c1ba74be,caa5fc13-fb23-4544-8f88-92c7f1ddc24c,2024-11-04,Smartphone,Electronics,1,355.3,Bank Transfer,East
+1af36b2e-1c71-4933-ba89-c6f981a63d60,99115f4d-2e11-4f5f-9d36-2b23d3a8c30e,2024-08-18,Jacket,Clothing,5,346.77,Bank Transfer,West
